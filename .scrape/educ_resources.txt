@@ -1,0 +1,42 @@
+9|EDUCMAD: Conseil navigation|
+45865|Série OSE - Mathématiques: Mathématiques série OSE 2021|pluginfile.php/52190/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20OSE%202021%20-%20%C3%A9nonc%C3%A9.pdf
+45894|Série S - Mathématiques: Mathématiques série S 2021|pluginfile.php/52221/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20S%202021%20-%20%C3%A9nonc%C3%A9.pdf
+45895|Série L- Mathématiques: Mathématiques série L 2021|pluginfile.php/52222/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20L%202021%20-%20%C3%A9nonc%C3%A9.pdf
+46022| Série OSE-SVT:  Science de la vie et de la terre série OSE 2021 - Énoncé |pluginfile.php/52351/mod_resource/content/0/sujet%20bacc%20OSE%202021.pdf
+46227|Série S - Mathématiques: Corrigé problème 1 Bacc série S 2021|pluginfile.php/52567/mod_resource/content/0/Corrig%C3%A9BaccS2021Pb1.pdf
+46228|Série S - Mathématiques: Corrigé  exercice 1 Bacc  série S 2021|pluginfile.php/52568/mod_resource/content/0/Corrig%C3%A9BaccS2021Exo1.pdf
+46229|Série S - Mathématiques: Corrigé exercice 2 Bacc série S 2021|pluginfile.php/52569/mod_resource/content/0/Corrig%C3%A9BaccS2021Exo2.pdf
+46349| Série S-SVT: Sciences de la vie et de la terre série S 2021 énoncé|pluginfile.php/52693/mod_resource/content/0/sujet%20bacc%20S%202021.pdf
+46351|Série L-SVT: Sciences de la vie et de la terre série L 2021 énoncé|pluginfile.php/52695/mod_resource/content/0/sujet%20bacc%20L%202021.pdf
+46392|Série S - Mathématiques: Corrigé Problème 2 Bacc série S 2021|pluginfile.php/52745/mod_resource/content/0/Corrig%C3%A9BaccS2021Pb2%2000.pdf
+47931|Série S - Mathématiques: Mathématiques série S 2022|pluginfile.php/54694/mod_resource/content/0/MATHEMATIQUE%20S.pdf
+47932|Série OSE - Mathématiques: Mathématiques série OSE 2022|pluginfile.php/54695/mod_resource/content/0/MATHEMATIQUE%20OSE.pdf
+47933|Série L- Mathématiques: Mathématiques série L 2022|pluginfile.php/54696/mod_resource/content/0/MATHEMATIQUE%20L.pdf
+47961| Série OSE-SVT: Science de la vie et de la terre série OSE 2022 - Énoncé|pluginfile.php/54724/mod_resource/content/0/SVT_OSE%202022.pdf
+47963| Série S-SVT: Sciences de la vie et de la terre série S 2022 énoncé 2022|pluginfile.php/54726/mod_resource/content/0/SVT_S%202022.pdf
+47965|Série L-SVT: Sciences de la vie et de la terre série L 2022 énoncé|pluginfile.php/54728/mod_resource/content/0/SVT_L%202022.pdf
+48394|Série S - Mathématiques: Corrigé exercice 1 Bacc série S 2022|pluginfile.php/55241/mod_resource/content/0/CORRIGE%20DE%20L-2.pdf
+48413|Série S - Mathématiques: Corrigé Exercice 2 Bacc série S 2022|pluginfile.php/55261/mod_resource/content/0/Corrig%C3%A9BaccS_Exo2.pdf
+48423|Série S - Mathématiques: Corrigé  problème 2 Bacc série S  2022|pluginfile.php/55273/mod_resource/content/0/Corrig%C3%A9%20%20bacc%20S%20pb%202022.pdf
+57572|Série L- Mathématiques: Mathématiques série L 2023|pluginfile.php/64731/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20L%202023.pdf
+57573|Série OSE - Sciences Physiques: Sciences Physique série OSE 2023|pluginfile.php/64732/mod_resource/content/0/Sciences%20Physique%20s%C3%A9rie%20OSE%202023%20%C3%A9nonc%C3%A9.pdf
+57574| Série OSE-SVT: Science de la Vie et de la Terre série OSE 2023-énoncé|pluginfile.php/64733/mod_resource/content/0/SVT%20s%C3%A9rie%20OSE%202023.pdf
+57589|Série S - Mathématiques: Corrigé Exercice 2 Bacc série S 2023|pluginfile.php/64749/mod_resource/content/0/Corrig%C3%A9Bacc%20S%202023_Exo2.pdf
+57600|Série S - Sciences Physiques: Bacc série S 2023|pluginfile.php/64770/mod_resource/content/0/Physique%20serie%20S%202023.pdf
+57601| Série S-SVT: Science de la Vie et de la Terre série S 2023 énoncé|pluginfile.php/64771/mod_resource/content/0/SVT%20serie%20S%202023.pdf
+57605|Série S - Mathématiques: Mathématiques série S 2023|pluginfile.php/64775/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20S%202023.pdf
+57659|Série L- Mathématiques: Bacc blanc Série L 2023 Lycée Philbert Tsiranana Mahajanga|pluginfile.php/64829/mod_resource/content/0/BAC%20BLANC%20TL.pdf
+57660|Série S - Mathématiques: Bacc blanc Série S 2023 Lycée Philbert Tsiranana Mahajanga|pluginfile.php/64830/mod_resource/content/0/BAC%20BLANC%20TS.pdf
+57661|Série S - Mathématiques: Bacc Blanc 2022 Série Lycée Philbert Tsiranana Mahajanga|pluginfile.php/64831/mod_resource/content/0/BAC_Blanc_TS_LPT_2022.pdf
+57682|Série S - Mathématiques: Corrigé problème 2 Bacc Série S 2023|pluginfile.php/64879/mod_resource/content/0/Corrig%C3%A9Bacc%20S%202023_Pb2.pdf
+57724|Série L-Sciences Physiques: Bacc blanc serie L  CISCO Tanà 2023|pluginfile.php/64957/mod_resource/content/0/Bacc%20blanc%20serie%20L%20%20CISCO%20Tan%C3%A0%202023.pdf
+57725|Série L-Sciences Physiques: Bacc SPC série L 2022|pluginfile.php/64958/mod_resource/content/0/Bacc%20SPC%20s%C3%A9rie%20L%202022.pdf
+57726|Série L-Sciences Physiques: Science Physique série L 2023|pluginfile.php/64959/mod_resource/content/0/Science%20Physique%20s%C3%A9rie%20L%202023.pdf
+57727|Série L-Sciences Physiques: sujet SPC Bacc B serieL  LJJR 2022|pluginfile.php/64960/mod_resource/content/0/sujet%20SPC%20Bacc%20B%20serieL%20%20LJJR%202022.pdf
+57728|Série L-Sciences Physiques: Bacc série L 2021|pluginfile.php/64961/mod_resource/content/0/Bacc%20s%C3%A9rie%20L%202021.pdf
+57753|Série S - Sciences Physiques: Bacc blanc serie S  CISCO Tanà 2023|pluginfile.php/64986/mod_resource/content/0/Bacc%20blanc%20serie%20S%20%20CISCO%20Tan%C3%A0%202023.pdf
+57754|Série S - Sciences Physiques: Bacc  série S 2022|pluginfile.php/64987/mod_resource/content/0/Bacc%20%20s%C3%A9rie%20S%202022.pdf
+57755|Série S - Sciences Physiques: Bacc série S 2021|pluginfile.php/64988/mod_resource/content/0/Bacc%20s%C3%A9rie%20S%202021.pdf
+57761|Série OSE - Sciences Physiques: Bacc blanc serie OSE CISCO Tanà 2023|pluginfile.php/64994/mod_resource/content/0/Bacc%20blanc%20serie%20OSE%20CISCO%20Tan%C3%A0%202023.pdf
+57762|Série OSE - Sciences Physiques: Bacc PC serie OSE 2021|pluginfile.php/64995/mod_resource/content/0/Bacc%20PC%20serie%20OSE%202021.pdf
+57763|Série OSE - Sciences Physiques: Bacc SPC série OSE 2022|pluginfile.php/64996/mod_resource/content/0/Bacc%20SPC%20s%C3%A9rie%20OSE%202022.pdf

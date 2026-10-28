@@ -1,0 +1,204 @@
+9|EDUCMAD: Conseil navigation|
+5972||
+6029||
+6035||
+6038||
+24232|Math_bacC: Mathématiques série C 2017 - énoncé|pluginfile.php/27863/mod_resource/content/0/bac2017_math_C.pdf
+24235|Math_bacC: Mathématiques série C 2016 - énoncé|pluginfile.php/27866/mod_resource/content/0/C2016_math.pdf
+24238|Math_bacC: Mathématiques série C 2015 - énoncé|pluginfile.php/27869/mod_resource/content/0/C_2015_math.pdf
+24242|Math_bacC: Mathématiques série C 2013 - énoncé|pluginfile.php/27873/mod_resource/content/0/bac2013_math_C_2013.pdf
+24243|Math_bacC: Mathématiques série C 2014 - énoncé|pluginfile.php/27874/mod_resource/content/0/bac2014_Mathematiques_C.pdf
+24247|pc_bacC: Sciences physiques série C 2015 - énoncé|pluginfile.php/27878/mod_resource/content/2/Sujet%20PC%20serie%20C%20session%202015.pdf
+24248|pc_bacC: Sciences physiques série C 2016 - énoncé|pluginfile.php/27879/mod_resource/content/0/C2016_physique_chimie.pdf
+24249|pc_bacC: Sciences physiques série C 2017 - énoncé|pluginfile.php/27880/mod_resource/content/0/bac2017_sciences_physiques_C.pdf
+24254|pc_bacC: Sciences physiques série C 2013 - énoncé|pluginfile.php/27885/mod_resource/content/0/bac2013_sciences_physiques_C_2013.pdf
+24263|SVT_bacC:  Sciences de la vie et de la Terre série C 2017 - énoncé|pluginfile.php/27894/mod_resource/content/0/bac2017_svt_C.pdf
+24264|SVT_bacC:  Sciences de la vie et de la Terre série C 2016 - énoncé|pluginfile.php/27895/mod_resource/content/0/C2016_SVT.pdf
+24265|SVT_bacC:  Sciences de la vie et de la Terre série C 2015 - énoncé|pluginfile.php/27896/mod_resource/content/0/C_2015_svt.pdf
+24266|SVT_bacC:  Sciences de la vie et de la Terre série C 2013 - énoncé|pluginfile.php/27897/mod_resource/content/0/bac2013_svt_C_2013.pdf
+24270|MLG: Malagasy série A 2017 - énoncé|pluginfile.php/27901/mod_resource/content/0/bac2017_malagasy_A.pdf
+24271|MLG: Malagasy série A 2016 - énoncé|pluginfile.php/27902/mod_resource/content/0/A2016_malagasy.pdf
+24272|MLG: Malagasy série A 2015 - énoncé|pluginfile.php/27903/mod_resource/content/0/A_2015_malagasy.pdf
+24273|MLG: Malagasy série A 2014 - énoncé|pluginfile.php/27904/mod_resource/content/0/bac2014_Malagasy_A.pdf
+24274|MLG: Malagasy série A 2013 - énoncé|pluginfile.php/27905/mod_resource/content/0/bac2013_Malagasy_A.pdf
+24276|MLG: Malagasy séries C-D 2014 - énoncé|pluginfile.php/27907/mod_resource/content/0/bac2014_Malagasy_CD.pdf
+24278|MLG: Malagasy séries C-D 2016 - énoncé|pluginfile.php/27909/mod_resource/content/0/CD2016_malagasy.pdf
+24279|MLG: Malagasy séries C-D 2017 - énoncé|pluginfile.php/27910/mod_resource/content/0/bac2017_malagasy_CD.pdf
+24280|MLG: Malagasy séries C-D 2015 - énoncé|pluginfile.php/27911/mod_resource/content/0/CD_2015_malagasy.pdf
+24281|MLG: Malagasy séries C-D 2013 - énoncé|pluginfile.php/27912/mod_resource/content/0/bac2013_Malagasy_C-D.pdf
+25844|Philo: Philosophie série A 2013 - énoncé|pluginfile.php/29711/mod_resource/content/0/bac2013_Philosophie_A.pdf
+25845|Philo: Philosophie série C-D 2013 - énoncé|pluginfile.php/29712/mod_resource/content/0/bac2013_Philosophie_C-D.pdf
+25846|Philo: Philosophie série A 2014 - énoncé|pluginfile.php/29713/mod_resource/content/0/bac2014_Philosophie_A.pdf
+25847|Philo: Philosophie série C-D 2014 - énoncé|pluginfile.php/29714/mod_resource/content/0/bac2014_Philosophie_CD.pdf
+25848|Philo: Philosophie série C-D 2015 - énoncé|pluginfile.php/29715/mod_resource/content/0/CD_2015_philo.pdf
+25849|Philo: Philosophie série A 2015 - énoncé|pluginfile.php/29716/mod_resource/content/0/A_2015_philo.pdf
+25850|Philo: Philosophie série A 2016 - énoncé|pluginfile.php/29717/mod_resource/content/0/A2016_philo.pdf
+25851|Philo: Philosophie série C-D 2016 - énoncé|pluginfile.php/29718/mod_resource/content/0/CD2016_philo.pdf
+25852|Philo: Philosophie série A 2017 - énoncé|pluginfile.php/29719/mod_resource/content/0/bac2017_philo_A.pdf
+25853|Philo: Philosophie série C-D 2017 - énoncé|pluginfile.php/29720/mod_resource/content/0/bac2017_philo_CD.pdf
+25854|Histo-Géo: Histo-Géo série A 2017 - énoncé |pluginfile.php/29721/mod_resource/content/0/bac2017_histogeo_A.pdf
+25855|Histo-Géo: Histo-Géo série C-D 2017 - énoncé |pluginfile.php/29722/mod_resource/content/0/bac2017_histogeo_CD.pdf
+25856|Histo-Géo: Histo-Géo série C-D 2016 - énoncé |pluginfile.php/29723/mod_resource/content/0/CD2016_histogeo.pdf
+25857|Histo-Géo: Histo-Géo série A 2016 - énoncé |pluginfile.php/29724/mod_resource/content/0/A2016_histogeo.pdf
+25858|Histo-Géo: Histo-Géo série A 2015 - énoncé |pluginfile.php/29725/mod_resource/content/0/A_2015_histogeo.pdf
+25859|Histo-Géo: Histo-Géo série C-D 2015 - énoncé |pluginfile.php/29726/mod_resource/content/0/CD_2015_histogeo.pdf
+25860|Histo-Géo: Histo-Géo série A 2014 - énoncé |pluginfile.php/29727/mod_resource/content/0/bac2014_Histo-Geo_A.pdf
+25861|Histo-Géo: Histo-Géo série C-D 2014 - énoncé |pluginfile.php/29728/mod_resource/content/0/bac2014_Histo_Geo_CD.pdf
+25862|Histo-Géo: Histo-Géo série A 2013 - énoncé |pluginfile.php/29729/mod_resource/content/0/bac2013_HIstoGeo_A.pdf
+25863|Histo-Géo: Histo-Géo série C-D 2013 - énoncé |pluginfile.php/29730/mod_resource/content/0/bac2013_HistoGeo_C-D.pdf
+25864|FRS: Français séries A-C-D 2017 - énoncé |pluginfile.php/29731/mod_resource/content/0/bac2017_francais_ACD.pdf
+25865|FRS: Français séries A-C-D 2016 - énoncé |pluginfile.php/29732/mod_resource/content/0/ACD2016_francais.pdf
+25866|FRS: Français séries A-C-D 2015 - énoncé |pluginfile.php/29733/mod_resource/content/0/ACD_2015_francais.pdf
+25867|FRS: Français séries A-C-D 2014 - énoncé |pluginfile.php/29734/mod_resource/content/0/bac2014_Fran%C3%A7ais_ACD.pdf
+25868|FRS: Français séries A-C-D 2013 - énoncé |pluginfile.php/29735/mod_resource/content/0/bac2013_Fran%C3%A7ais_A-C-D.pdf
+25869|ANG: Anglais série A 2017 - énoncé |pluginfile.php/29736/mod_resource/content/0/bac2017_anglais_A.pdf
+25870|ANG: Anglais série C-D 2017 - énoncé |pluginfile.php/29737/mod_resource/content/0/bac2017_anglais_CD.pdf
+25871|ANG: Anglais série A 2016 - énoncé |pluginfile.php/29738/mod_resource/content/0/A2016_anglais.pdf
+25872|ANG: Anglais série C-D 2016 - énoncé |pluginfile.php/29739/mod_resource/content/0/CD2016_anglais.pdf
+25873|ANG: Anglais série A 2015 - énoncé |pluginfile.php/29740/mod_resource/content/0/A_2015_anglais.pdf
+25874|ANG: Anglais série A 2014 - énoncé |pluginfile.php/29741/mod_resource/content/0/bac2014_Anglais_A.pdf
+25875|ANG: Anglais série C-D 2014 - énoncé |pluginfile.php/29742/mod_resource/content/0/bac2014_Anglais_CD.pdf
+25876|ANG: Anglais série A 2013 - énoncé |pluginfile.php/29743/mod_resource/content/0/bac2013_Anglais_A.pdf
+25877|ANG: Anglais série C-D 2013 - énoncé |pluginfile.php/29744/mod_resource/content/0/bac2013_Anglais_C-D.pdf
+25878|ANG: Anglais série C-D 2015 - énoncé |pluginfile.php/29745/mod_resource/content/0/CD_2015_anglais.pdf
+25879|ALLM: Allemand série A 2017 - énoncé |pluginfile.php/29746/mod_resource/content/0/bac2017_allemand_A.pdf
+25880|ALLM: Allemand série C-D 2017 - énoncé |pluginfile.php/29747/mod_resource/content/0/bac2017_allemand__CD.pdf
+25881|ALLM: Allemand série A 2016 - énoncé |pluginfile.php/29748/mod_resource/content/0/A2016_allemand.pdf
+25882|ALLM: Allemand série C-D 2016 - énoncé |pluginfile.php/29749/mod_resource/content/0/CD2016_allemand.pdf
+25883|ALLM: Allemand série A 2014 - énoncé |pluginfile.php/29750/mod_resource/content/0/bac2014_Allemand_A.pdf
+25884|ALLM: Allemand série C-D 2014 - énoncé |pluginfile.php/29751/mod_resource/content/0/bac2014_Allemand_CD.pdf
+25885|ALLM: Allemand série C-D 2013 - énoncé |pluginfile.php/29752/mod_resource/content/0/bac2013_Allemand_C-D.pdf
+25886|ALLM: Allemand série A 2013 - énoncé |pluginfile.php/29753/mod_resource/content/0/bac2013_Allemand_A.pdf
+25887|ESP: Espagnol série C-D 2016 - énoncé |pluginfile.php/29754/mod_resource/content/0/CD2016_espagnol.pdf
+25888|ESP: Espagnol série A 2014 - énoncé |pluginfile.php/29755/mod_resource/content/0/bac2014_Espagnol_A.pdf
+25889|ESP: Espagnol série C-D 2014 - énoncé |pluginfile.php/29756/mod_resource/content/0/bac2014_Espagnol_CD.pdf
+25890|ESP: Espagnol série A 2013 - énoncé |pluginfile.php/29757/mod_resource/content/0/bac2013_Espagnol_A.pdf
+25891|ESP: Espagnol série C-D 2013 - énoncé |pluginfile.php/29758/mod_resource/content/0/bac2013_Espagnol_C-D.pdf
+25892|math_bacD: Mathématiques série D 2017 - énoncé|pluginfile.php/29769/mod_resource/content/0/bac2017_math_D.pdf
+25893|math_bacD: Mathématiques série D 2016 - énoncé|pluginfile.php/29770/mod_resource/content/0/D2016_math.pdf
+25894|math_bacD: Mathématiques série D 2015 - énoncé|pluginfile.php/29771/mod_resource/content/0/D_2015_math.pdf
+25895|math_bacD: Mathématiques série D 2014 - énoncé|pluginfile.php/29772/mod_resource/content/0/bac2014_Mathematiques_D.pdf
+25896|math_bacD: Mathématiques série D 2013 - énoncé|pluginfile.php/29773/mod_resource/content/0/bac2013_math_D_2013.pdf
+25934|math_bacA: Mathématiques série A 2017 - énoncé|pluginfile.php/29811/mod_resource/content/0/bac2017_math_A.pdf
+25935|math_bacA: Mathématiques série A 2016 - énoncé|pluginfile.php/29812/mod_resource/content/0/A2016_math.pdf
+25936|math_bacA: Mathématiques série A 2015 - énoncé|pluginfile.php/29813/mod_resource/content/0/A_2015_math.pdf
+25937|math_bacA: Mathématiques série A 2014 - énoncé|pluginfile.php/29814/mod_resource/content/0/bac2014_Math_A.pdf
+25938|math_bacA: Mathématiques série A 2013 - énoncé|pluginfile.php/29815/mod_resource/content/0/bac2013_math_A_2013.pdf
+25986|pc_bacD: Sciences physiques série D 2017 - énoncé|pluginfile.php/29873/mod_resource/content/0/bac2017_sciences_physiques_D.pdf
+25987|pc_bacD: Sciences physiques série D 2016 - énoncé|pluginfile.php/29874/mod_resource/content/0/D2016_physique_chimie.pdf
+25988|pc_bacD: Sciences physiques série D 2015 - énoncé|pluginfile.php/29875/mod_resource/content/0/D_2015_pc.pdf
+25989||
+25991|pc_bacD: Sciences physiques série D 2013 - énoncé|pluginfile.php/29878/mod_resource/content/0/bac2013_sciences_physiques_C_2013.pdf
+25999||
+26001||
+26017||
+26019||
+26021|pc_bacA: Sciences physiques série A 2017 - énoncé|pluginfile.php/29908/mod_resource/content/0/bac2017_sciences_physiques_A.pdf
+26023|pc_bacA: Sciences physiques série A 2015 - énoncé|pluginfile.php/29910/mod_resource/content/0/D_2015_pc.pdf
+26025||
+26027|pc_bacA: Sciences physiques série A 2013 - énoncé|pluginfile.php/29914/mod_resource/content/0/bac2013_sciences_physiques_D_2013.pdf
+26057|SVT_bacD:  Sciences de la vie et de la Terre série D 2017 - énoncé|pluginfile.php/29954/mod_resource/content/0/bac2017_svt_D.pdf
+26058|SVT_bacD:  Sciences de la vie et de la Terre série D 2016 - énoncé|pluginfile.php/29955/mod_resource/content/0/D2016_SVT.pdf
+26059|SVT_bacD:  Sciences de la vie et de la Terre série D 2015 - énoncé|pluginfile.php/29956/mod_resource/content/0/D_2015_svt.pdf
+26060||
+26062|SVT_bacD:  Sciences de la vie et de la Terre série D 2013 - énoncé|pluginfile.php/29959/mod_resource/content/0/bac2013_svt_D_2013.pdf
+26092|SVT_bacA:  Sciences de la vie et de la Terre série A 2016 - énoncé|pluginfile.php/29989/mod_resource/content/0/A2016_svt.pdf
+26093|SVT_bacA:  Sciences de la vie et de la Terre série A 2015 - énoncé|pluginfile.php/29990/mod_resource/content/0/A_2015_svt.pdf
+26094||
+40849|SVT_bacA: Sciences de la vie et de la Terre série A 2018 - énoncé|pluginfile.php/45055/mod_resource/content/0/Science%20de%20la%20vie%20et%20de%20la%20Terre%20s%C3%A9rie%20A%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40851|SVT_bacC: Sciences de la vie et de la Terre série C 2018 - énoncé|pluginfile.php/45057/mod_resource/content/0/Sciences%20de%20la%20vie%20et%20de%20la%20Terre%20s%C3%A9rie%20C%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40865|SVT_bacD: Sciences de la vie et de la Terre série D 2018 - énoncé|pluginfile.php/45071/mod_resource/content/0/Sciences%20de%20la%20vie%20et%20de%20la%20Terre%20s%C3%A9rie%20D%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40969|pc_bacC: Sciences physiques série C 2018 - énoncé|pluginfile.php/45180/mod_resource/content/0/Sciences%20physiques%20s%C3%A9rie%20C%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40971|pc_bacD: Sciences physiques série D 2018 - énoncé|pluginfile.php/45182/mod_resource/content/0/Sciences%20physiques%20s%C3%A9rie%20D%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40974|pc_bacA: Sciences physiques série A 2018 - énoncé|pluginfile.php/45185/mod_resource/content/0/Sciences%20physiques%20s%C3%A9rie%20A%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40977|Math_bacC: Mathématiques série C 2018 - énoncé|pluginfile.php/45188/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20C%202018%20-%20%C3%A9nonc%C3%A9.pdf
+40978|math_bacD: Mathématiques série D 2018 - énoncé|pluginfile.php/45189/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20D%202018%20-%20%C3%A9nonc%C3%A9.pdf
+41003|Math_bacC: Enoncé Mathématiques série C 2002|pluginfile.php/45279/mod_resource/content/0/Bacc2002.pdf
+41004|Math_bacC: Enoncé Mathématiques série C 2000|pluginfile.php/45280/mod_resource/content/0/Bacc2000.pdf
+41005|Math_bacC: Enoncé Mathématiques série C 2001|pluginfile.php/45281/mod_resource/content/0/Bacc2001.pdf
+41007|Math_bacC: Enoncé Mathématiques série C 2003|pluginfile.php/45283/mod_resource/content/0/bacc2003v2.pdf
+44706|pc_bacC: Sciences Physiques série C  2019 1ère session - énoncé|pluginfile.php/50645/mod_resource/content/1/sujet%20PC%20serie%20C%201ere%20session%202019.pdf
+44707|pc_bacC: Sciences Physiques série C 2ème session  2019 - énoncé|pluginfile.php/50646/mod_resource/content/1/sujet%20PC%20%20serie%20C%202e%20session%202019.pdf
+44710|pc_bacC: Sciences Physiques série C 2020 - énoncé|pluginfile.php/50649/mod_resource/content/1/sujet%20PC%20serie%20C%20session%202020.pdf
+44714|pc_bacD: Sciences Physiques série D 1ère session 2019 - énoncé|pluginfile.php/50653/mod_resource/content/1/sujet%20PC%20serie%20D%201ere%20session%202019.pdf
+44715|pc_bacD: Sciences Physiques série D 2ème session 2019 - énoncé|pluginfile.php/50654/mod_resource/content/1/sujet%20PC%20serie%20D%202e%20session%202019.pdf
+44718|pc_bacD: Sciences Physiques série D 2020 - énoncé|pluginfile.php/50657/mod_resource/content/1/sujet%20PC%20serie%20D%20session%202020.pdf
+44720|pc_bacA: Sciences Physiques série A 1ère session 2019 - énoncé|pluginfile.php/50659/mod_resource/content/1/sujet%20PC%20serie%20A%201ere%20session%202019.pdf
+44721|pc_bacA: Sciences Physiques serie A 2ème session  2019 - énoncé|pluginfile.php/50660/mod_resource/content/1/sujet%20PC%20serie%20A%202e%20session%202019.pdf
+44725|pc_bacA: Sciences Physiques série A  2020 - énoncé|pluginfile.php/50664/mod_resource/content/1/corrig%C3%A9%20serie%20A%202020.pdf
+45121|Math_bacC: Mathématiques série C 2020 - énoncé|pluginfile.php/51252/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20C%202020%20-%20%C3%A9nonc%C3%A9.pdf
+45123|math_bacD: Mathématiques série D 2020 - énoncé|pluginfile.php/51254/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20D%202020%20-%20%C3%A9nonc%C3%A9.pdf
+45124|math_bacA: Mathématiques série A 2020 - énoncé|pluginfile.php/51255/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20A%202020%20-%20%C3%A9nonc%C3%A9.pdf
+45369|SVT_bacC:  Science de la vie et de la terre série C 2019 - énoncé |pluginfile.php/51650/mod_resource/content/0/SERIE%20C.pdf
+45387|SVT_bacD: Énoncé Science de la vie et de la Terre série D 2019|pluginfile.php/51668/mod_resource/content/0/SERIE%20D.pdf
+45392|SVT_bacA: Sciences de la vie et de la Terre série A 2019 1èr session|pluginfile.php/51673/mod_resource/content/0/SERIE%20A%20%202019%201%C3%A8r%20session.pdf
+45393|SVT_bacA: Sciences de la vie et de la Terre série A 2019 2ème session|pluginfile.php/51674/mod_resource/content/0/SERIE%20A%20%202019%202%C3%A8me%20session.pdf
+45405|SVT_bacA: Sciences de la vie et de la Terre série A 2020|pluginfile.php/51686/mod_resource/content/0/SUJET%20serie%20A%202020.pdf
+45409|SVT_bacC:  Science de la vie et de la terre série C 2020 - Énoncé|pluginfile.php/51690/mod_resource/content/0/SUJET%20%20s%C3%A9rie%20C%202020.pdf
+45411|SVT_bacD: Énoncé Science de la vie et de la Terre série D 2020|pluginfile.php/51692/mod_resource/content/0/SUJET%20s%C3%A9rie%20D%202020.pdf
+45868|Math_bacC: Mathématiques série C 2021 - énoncé|pluginfile.php/52195/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20C%202021%20-%20%C3%A9nonc%C3%A9.pdf
+45869|math_bacD: Mathématiques série D 2021 - énoncé|pluginfile.php/52196/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20D%202021%20-%20%C3%A9nonc%C3%A9.pdf
+45870|math_bacA: Mathématiques série A 2021 - énoncé|pluginfile.php/52197/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20A%202021%20-%20%C3%A9nonc%C3%A9.pdf
+46016|SVT_bacC:  Science de la vie et de la terre série C 2021 - Énoncé|pluginfile.php/52345/mod_resource/content/0/sujet%20bacc%20C%202021.pdf
+46018|SVT_bacD: Énoncé Science de la vie et de la Terre série D 2021|pluginfile.php/52347/mod_resource/content/0/sujet%20bacc%20D%202021.pdf
+46020|SVT_bacA: Sciences de la vie et de la Terre série A 2021|pluginfile.php/52349/mod_resource/content/0/sujet%20bacc%20A%202021.pdf
+46274|pc_bacC: Sujet Bacc série C 2021 - Enoncé|pluginfile.php/52618/mod_resource/content/1/serie%20C%202021.pdf
+46275|pc_bacD: Sujet Bacc PC serie D 2021 - Enoncé|pluginfile.php/52619/mod_resource/content/1/serie%20D%202021.pdf
+46277|pc_bacA: Sujet Bacc PC serie A  2021 - Enoncé|pluginfile.php/52621/mod_resource/content/1/serie%20A%202021.pdf
+47406|math_bacA: Enoncé Mathématiques série A 2004|pluginfile.php/54007/mod_resource/content/0/Bacc%20A%202004.pdf
+47407|math_bacA: Enoncé Mathématiques série A 1999|pluginfile.php/54008/mod_resource/content/0/bacc%20A%201999.pdf
+47408|math_bacA: Enoncé Mathématiques série A 2001|pluginfile.php/54009/mod_resource/content/0/bacc2001.pdf
+47409|math_bacA: Enoncé Mathématiques série A 2010|pluginfile.php/54010/mod_resource/content/0/Bacc%20A%202010.pdf
+47410|math_bacA: Enoncé Mathématiques série A 2012|pluginfile.php/54011/mod_resource/content/0/Bacc%20A%202012.pdf
+47432|pc_bacA: Sciences Physique série A 2016- énoncé|pluginfile.php/54033/mod_resource/content/1/sujet%20PC%20serie%20A%20session%202016.pdf
+47928|Math_bacC: Mathématiques série C 2022 énoncé|pluginfile.php/54691/mod_resource/content/0/MATHEMATIQUE%20C.pdf
+47929|math_bacD: Mathématiques série D 2022 -énoncé|pluginfile.php/54692/mod_resource/content/0/MATHEMATIQUE%20D.pdf
+47930|math_bacA: Mathématiques série A 2022 -énoncé|pluginfile.php/54693/mod_resource/content/0/MATHEMATIQUE%20A.pdf
+47934|Philo: Philosophie série A 2022|pluginfile.php/54697/mod_resource/content/0/PHILOSOPHIE%20A.pdf
+47935|Philo: Philosophie série L 2022|pluginfile.php/54698/mod_resource/content/0/PHILOSOPHIE%20L.pdf
+47936|MLG: Malagasy série S 2022|pluginfile.php/54699/mod_resource/content/0/MALAGASY%20S.pdf
+47938|MLG: Malagasy série  C-D 2022|pluginfile.php/54701/mod_resource/content/0/MALAGASY%20C%20D.pdf
+47939|MLG: Malagasy série OSE 2022|pluginfile.php/54702/mod_resource/content/0/MALAGASY%20OSE.pdf
+47940|ANG: Anglais série A-L 2022 - énoncé|pluginfile.php/54703/mod_resource/content/0/ANGLAIS%20A%20L.pdf
+47941|ANG: Anglais série C-D 2022|pluginfile.php/54704/mod_resource/content/0/ANGLAIS%20C%20D.pdf
+47942|SVT_bacC: Science de la vie et de la terre série C 2021 - Énoncé 2022|pluginfile.php/54705/mod_resource/content/0/SVT_C%202022.pdf
+47943|ANG: Anglais série OSE 2022- énoncé|pluginfile.php/54706/mod_resource/content/0/ANGLAIS%20S%20OSE.pdf
+47946|FRS: Français série A 2022|pluginfile.php/54709/mod_resource/content/0/FRANCAIS%20A.pdf
+47947|FRS: Français série D 2022|pluginfile.php/54710/mod_resource/content/0/FRANCAIS%20D.pdf
+47948|SVT_bacD: Énoncé Science de la vie et de la Terre série D 2022|pluginfile.php/54711/mod_resource/content/0/SVT_D%202022.pdf
+47949|FRS: Français série L 2022|pluginfile.php/54712/mod_resource/content/0/FRANCAIS%20L.pdf
+47952|pc_bacC: Sujet Bacc SPC série C 2022|pluginfile.php/54715/mod_resource/content/0/PHYSIQUE%20C.pdf
+47954|SVT_bacA: Sciences de la vie et de la Terre série A 2022|pluginfile.php/54717/mod_resource/content/0/SVT_A%202022.pdf
+47957|pc_bacD: Sujet Bacc SPC série D 2022-énoncé|pluginfile.php/54720/mod_resource/content/0/PHYSIQUE%20D.pdf
+47960|pc_bacA: Sujet Bacc SPC série A 2022|pluginfile.php/54723/mod_resource/content/0/PHYSIQUE%20A.pdf
+57560|math_bacD: Mathématiques série D 2023 - énoncé|pluginfile.php/64719/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20D%202023.pdf
+57561|Math_bacC: Mathématiques série C 2023 - énoncé|pluginfile.php/64720/mod_resource/content/0/Math%C3%A9matiques%20s%C3%A9rie%20C%202023.pdf
+57563|Histo-Géo: Histo Géo série C-D 2023- énoncé|pluginfile.php/64722/mod_resource/content/0/Histo%20G%C3%A9o%20s%C3%A9rie%20C-D%202023.pdf
+57565|Histo-Géo: Histo-géo série S 2023 - énoncé|pluginfile.php/64724/mod_resource/content/0/Histo-g%C3%A9o%20s%C3%A9rie%20S%202023.pdf
+57567|Histo-Géo: Histo Géo série A 2023 -énoncé|pluginfile.php/64726/mod_resource/content/0/Histo%20G%C3%A9o%20s%C3%A9rie%20A%202023%20.pdf
+57569|Histo-Géo: Histo-Géo série L 2023- énoncé|pluginfile.php/64728/mod_resource/content/0/Histo-G%C3%A9o%20s%C3%A9rie%20L%202023.pdf
+57571|pc_bacA: Sciences Physique  série A 2023 énoncé|pluginfile.php/64730/mod_resource/content/0/Sciences%20Physique%20%20s%C3%A9rie%20A%202023%20%C3%A9nonc%C3%A9.pdf
+57575|FRS: Français série A-C-D 2023|pluginfile.php/64734/mod_resource/content/0/Fran%C3%A7ais%20s%C3%A9rie%20A-C-D%202023.pdf
+57576|ANG: Anglais série C-D 2023|pluginfile.php/64735/mod_resource/content/0/Anglais%20s%C3%A9rie%20C-D%202023.pdf
+57577|MLG: Malagasy série S 2023|pluginfile.php/64736/mod_resource/content/0/Malagasy%20s%C3%A9rie%20S%202023.pdf
+57578|MLG: Malagasy série OSE 2023|pluginfile.php/64737/mod_resource/content/0/Malagasy%20s%C3%A9rie%20OSE%202023.pdf
+57579|MLG: Malagasy série C-D 2023|pluginfile.php/64738/mod_resource/content/0/Malagasy%20s%C3%A9rie%20C-D%202023.pdf
+57580|MLG: Malagasy série A 2023 énoncé|pluginfile.php/64739/mod_resource/content/0/Malagasy%20s%C3%A9rie%20A%202023.pdf
+57581|FRS: FRANCAIS série L 2023|pluginfile.php/64740/mod_resource/content/0/FRANCAIS%20s%C3%A9rie%20L.pdf
+57582|FRS: Français série S 2023|pluginfile.php/64741/mod_resource/content/0/Fran%C3%A7ais%20s%C3%A9rie%20S%202023.pdf
+57583|FRS: Français série OSE 2023 |pluginfile.php/64742/mod_resource/content/0/Fran%C3%A7ais%20s%C3%A9rie%20OSE%202023%20.pdf
+57584|Philo: Philosophie série CD 2023 énoncé|pluginfile.php/64743/mod_resource/content/0/Philosophie%20s%C3%A9rie%20CD.pdf
+57585|Philo: Philosophie série L 2023- énoncé|pluginfile.php/64744/mod_resource/content/0/Philosophie%20s%C3%A9rie%20L%202023.pdf
+57587|SES: SES série L énoncé  2023|pluginfile.php/64747/mod_resource/content/0/SES%20s%C3%A9rie%20L%202023.pdf
+57588|SES: SES série S énoncé 2023|pluginfile.php/64748/mod_resource/content/0/SES%20s%C3%A9rie%20S%202023.pdf
+57595|math_bacA: Mathématiques serie A 2019 -énoncé|pluginfile.php/64764/mod_resource/content/0/Math%20serie%20A%202019.pdf
+57596|pc_bacD: Sujet Bacc SPC série D 2023-énoncé|pluginfile.php/64765/mod_resource/content/0/Physiqu%20serie%20D%202023.pdf
+57597|pc_bacC: Sujet Bacc SPC série C 2023|pluginfile.php/64767/mod_resource/content/0/Physique%20serie%20C%202023.pdf
+57598|SVT_bacC: Enoncé Science de la Vie et de la Terre série C 2023|pluginfile.php/64768/mod_resource/content/0/SVT%20serie%20C%202023.pdf
+57599|SVT_bacD: Enoncé Science de la Vie et de la Terre série D 2023|pluginfile.php/64769/mod_resource/content/0/SVT%20serie%20D%202023.pdf
+57602|Philo: Philosophie série CD 2019-énoncé|pluginfile.php/64772/mod_resource/content/0/Philos%20serie%20CD%202019.pdf
+57649|SVT_bacA: Sciences de la vie et de la terre série A 2023 docx|pluginfile.php/64819/mod_resource/content/0/Sciences%20de%20la%20vie%20et%20de%20la%20terre%20s%C3%A9rie%20A%202023%20docx.pdf
+57654|Math_bacC: Mathématiques série C 2019- énoncé|pluginfile.php/64824/mod_resource/content/0/BAC%20%20C%20%202019.pdf
+57655|math_bacD: Mathématiques série D 2019 - énoncé|pluginfile.php/64825/mod_resource/content/0/BAC%20%20D%20%202019.pdf
+57657|math_bacD: Bacc blanc Série D 2023 Lycée Philbert Tsiranana Mahanjanga|pluginfile.php/64827/mod_resource/content/1/BAC%20BLANC%20TD.pdf
+57658|math_bacA: Bacc blanc Mathématiques Série A 2023 Lycée Philbert Tsiranana Mahajanga|pluginfile.php/64828/mod_resource/content/0/BAC%20BLANC%20TA.pdf

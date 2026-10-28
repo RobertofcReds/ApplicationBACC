@@ -1,0 +1,1680 @@
+{
+  "generatedAt": "2026-09-28T20:53:07.206Z",
+  "source": "https://csjmahamasina.com/getSujets",
+  "count": 239,
+  "sujets": [
+    {
+      "id": 37,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 1998,
+      "file": "assets/pdfs/D/mathematiques/1998_37.pdf"
+    },
+    {
+      "id": 3,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2000,
+      "file": "assets/pdfs/A2/mathematiques/2000_3.pdf"
+    },
+    {
+      "id": 22,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 1999,
+      "file": "assets/pdfs/C/mathematiques/1999_22.pdf"
+    },
+    {
+      "id": 1,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 1998,
+      "file": "assets/pdfs/A2/mathematiques/1998_1.pdf"
+    },
+    {
+      "id": 23,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2000,
+      "file": "assets/pdfs/C/mathematiques/2000_23.pdf"
+    },
+    {
+      "id": 62,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 1999,
+      "file": "assets/pdfs/A/malagasy/1999_62.pdf"
+    },
+    {
+      "id": 4,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2001,
+      "file": "assets/pdfs/A2/mathematiques/2001_4.pdf"
+    },
+    {
+      "id": 81,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 1999,
+      "file": "assets/pdfs/C-D/malagasy/1999_81.pdf"
+    },
+    {
+      "id": 63,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2000,
+      "file": "assets/pdfs/A/malagasy/2000_63.pdf"
+    },
+    {
+      "id": 82,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 1999,
+      "file": "assets/pdfs/C-D/malagasy/1999_82.pdf"
+    },
+    {
+      "id": 83,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2000,
+      "file": "assets/pdfs/C-D/malagasy/2000_83.pdf"
+    },
+    {
+      "id": 38,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 1999,
+      "file": "assets/pdfs/D/mathematiques/1999_38.pdf"
+    },
+    {
+      "id": 24,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2001,
+      "file": "assets/pdfs/C/mathematiques/2001_24.pdf"
+    },
+    {
+      "id": 2,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 1999,
+      "file": "assets/pdfs/A2/mathematiques/1999_2.pdf"
+    },
+    {
+      "id": 5,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2002,
+      "file": "assets/pdfs/A2/mathematiques/2002_5.pdf"
+    },
+    {
+      "id": 6,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2003,
+      "file": "assets/pdfs/A2/mathematiques/2003_6.pdf"
+    },
+    {
+      "id": 64,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2001,
+      "file": "assets/pdfs/A/malagasy/2001_64.pdf"
+    },
+    {
+      "id": 84,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2000,
+      "file": "assets/pdfs/C-D/malagasy/2000_84.pdf"
+    },
+    {
+      "id": 25,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2002,
+      "file": "assets/pdfs/C/mathematiques/2002_25.pdf"
+    },
+    {
+      "id": 65,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2002,
+      "file": "assets/pdfs/A/malagasy/2002_65.pdf"
+    },
+    {
+      "id": 40,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2001,
+      "file": "assets/pdfs/D/mathematiques/2001_40.pdf"
+    },
+    {
+      "id": 7,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2004,
+      "file": "assets/pdfs/A2/mathematiques/2004_7.pdf"
+    },
+    {
+      "id": 26,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2003,
+      "file": "assets/pdfs/C/mathematiques/2003_26.pdf"
+    },
+    {
+      "id": 39,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2000,
+      "file": "assets/pdfs/D/mathematiques/2000_39.pdf"
+    },
+    {
+      "id": 66,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2003,
+      "file": "assets/pdfs/A/malagasy/2003_66.pdf"
+    },
+    {
+      "id": 8,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2005,
+      "file": "assets/pdfs/A2/mathematiques/2005_8.pdf"
+    },
+    {
+      "id": 67,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2004,
+      "file": "assets/pdfs/A/malagasy/2004_67.pdf"
+    },
+    {
+      "id": 41,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2002,
+      "file": "assets/pdfs/D/mathematiques/2002_41.pdf"
+    },
+    {
+      "id": 27,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2004,
+      "file": "assets/pdfs/C/mathematiques/2004_27.pdf"
+    },
+    {
+      "id": 42,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2003,
+      "file": "assets/pdfs/D/mathematiques/2003_42.pdf"
+    },
+    {
+      "id": 28,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2005,
+      "file": "assets/pdfs/C/mathematiques/2005_28.pdf"
+    },
+    {
+      "id": 10,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2007,
+      "file": "assets/pdfs/A2/mathematiques/2007_10.pdf"
+    },
+    {
+      "id": 9,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2006,
+      "file": "assets/pdfs/A2/mathematiques/2006_9.pdf"
+    },
+    {
+      "id": 68,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2005,
+      "file": "assets/pdfs/A/malagasy/2005_68.pdf"
+    },
+    {
+      "id": 69,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2006,
+      "file": "assets/pdfs/A/malagasy/2006_69.pdf"
+    },
+    {
+      "id": 43,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2004,
+      "file": "assets/pdfs/D/mathematiques/2004_43.pdf"
+    },
+    {
+      "id": 85,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/malagasy/2006_85.pdf"
+    },
+    {
+      "id": 86,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/malagasy/2006_86.pdf"
+    },
+    {
+      "id": 109,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2006,
+      "file": "assets/pdfs/A/philosophie/2006_109.pdf"
+    },
+    {
+      "id": 29,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2006,
+      "file": "assets/pdfs/C/mathematiques/2006_29.pdf"
+    },
+    {
+      "id": 44,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2005,
+      "file": "assets/pdfs/D/mathematiques/2005_44.pdf"
+    },
+    {
+      "id": 120,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/philosophie/2006_120.pdf"
+    },
+    {
+      "id": 119,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/philosophie/2006_119.pdf"
+    },
+    {
+      "id": 139,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2006,
+      "file": "assets/pdfs/A-C-D/francais/2006_139.pdf"
+    },
+    {
+      "id": 141,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2006,
+      "file": "assets/pdfs/A-C-D/francais/2006_141.pdf"
+    },
+    {
+      "id": 140,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2006,
+      "file": "assets/pdfs/A-C-D/francais/2006_140.pdf"
+    },
+    {
+      "id": 169,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2006,
+      "file": "assets/pdfs/A/anglais/2006_169.pdf"
+    },
+    {
+      "id": 30,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2007,
+      "file": "assets/pdfs/C/mathematiques/2007_30.pdf"
+    },
+    {
+      "id": 180,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/anglais/2006_180.pdf"
+    },
+    {
+      "id": 179,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2006,
+      "file": "assets/pdfs/C-D/anglais/2006_179.pdf"
+    },
+    {
+      "id": 219,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2006,
+      "file": "assets/pdfs/A/sciences_physiques/2006_219.pdf"
+    },
+    {
+      "id": 199,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2006,
+      "file": "assets/pdfs/C/sciences_physiques/2006_199.pdf"
+    },
+    {
+      "id": 200,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2006,
+      "file": "assets/pdfs/D/sciences_physiques/2006_200.pdf"
+    },
+    {
+      "id": 70,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2007,
+      "file": "assets/pdfs/A/malagasy/2007_70.pdf"
+    },
+    {
+      "id": 230,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2006,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2006_230.pdf"
+    },
+    {
+      "id": 87,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/malagasy/2007_87.pdf"
+    },
+    {
+      "id": 11,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2008,
+      "file": "assets/pdfs/A2/mathematiques/2008_11.pdf"
+    },
+    {
+      "id": 45,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2006,
+      "file": "assets/pdfs/D/mathematiques/2006_45.pdf"
+    },
+    {
+      "id": 88,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/malagasy/2007_88.pdf"
+    },
+    {
+      "id": 122,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/philosophie/2007_122.pdf"
+    },
+    {
+      "id": 142,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2007,
+      "file": "assets/pdfs/A-C-D/francais/2007_142.pdf"
+    },
+    {
+      "id": 31,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2008,
+      "file": "assets/pdfs/C/mathematiques/2008_31.pdf"
+    },
+    {
+      "id": 144,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2007,
+      "file": "assets/pdfs/A-C-D/francais/2007_144.pdf"
+    },
+    {
+      "id": 110,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2007,
+      "file": "assets/pdfs/A/philosophie/2007_110.pdf"
+    },
+    {
+      "id": 143,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2007,
+      "file": "assets/pdfs/A-C-D/francais/2007_143.pdf"
+    },
+    {
+      "id": 121,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/philosophie/2007_121.pdf"
+    },
+    {
+      "id": 220,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2007,
+      "file": "assets/pdfs/A/sciences_physiques/2007_220.pdf"
+    },
+    {
+      "id": 170,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2007,
+      "file": "assets/pdfs/A/anglais/2007_170.pdf"
+    },
+    {
+      "id": 202,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2007,
+      "file": "assets/pdfs/D/sciences_physiques/2007_202.pdf"
+    },
+    {
+      "id": 201,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2007,
+      "file": "assets/pdfs/C/sciences_physiques/2007_201.pdf"
+    },
+    {
+      "id": 12,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2009,
+      "file": "assets/pdfs/A2/mathematiques/2009_12.pdf"
+    },
+    {
+      "id": 231,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2007,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2007_231.pdf"
+    },
+    {
+      "id": 181,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/anglais/2007_181.pdf"
+    },
+    {
+      "id": 71,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2008,
+      "file": "assets/pdfs/A/malagasy/2008_71.pdf"
+    },
+    {
+      "id": 182,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2007,
+      "file": "assets/pdfs/C-D/anglais/2007_182.pdf"
+    },
+    {
+      "id": 89,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/malagasy/2008_89.pdf"
+    },
+    {
+      "id": 90,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/malagasy/2008_90.pdf"
+    },
+    {
+      "id": 111,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2008,
+      "file": "assets/pdfs/A/philosophie/2008_111.pdf"
+    },
+    {
+      "id": 124,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/philosophie/2008_124.pdf"
+    },
+    {
+      "id": 123,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/philosophie/2008_123.pdf"
+    },
+    {
+      "id": 46,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2007,
+      "file": "assets/pdfs/D/mathematiques/2007_46.pdf"
+    },
+    {
+      "id": 32,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2009,
+      "file": "assets/pdfs/C/mathematiques/2009_32.pdf"
+    },
+    {
+      "id": 145,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2008,
+      "file": "assets/pdfs/A-C-D/francais/2008_145.pdf"
+    },
+    {
+      "id": 146,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2008,
+      "file": "assets/pdfs/A-C-D/francais/2008_146.pdf"
+    },
+    {
+      "id": 147,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2008,
+      "file": "assets/pdfs/A-C-D/francais/2008_147.pdf"
+    },
+    {
+      "id": 184,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/anglais/2008_184.pdf"
+    },
+    {
+      "id": 183,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2008,
+      "file": "assets/pdfs/C-D/anglais/2008_183.pdf"
+    },
+    {
+      "id": 171,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2008,
+      "file": "assets/pdfs/A/anglais/2008_171.pdf"
+    },
+    {
+      "id": 221,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2008,
+      "file": "assets/pdfs/A/sciences_physiques/2008_221.pdf"
+    },
+    {
+      "id": 232,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2008,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2008_232.pdf"
+    },
+    {
+      "id": 204,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2008,
+      "file": "assets/pdfs/D/sciences_physiques/2008_204.pdf"
+    },
+    {
+      "id": 13,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2010,
+      "file": "assets/pdfs/A2/mathematiques/2010_13.pdf"
+    },
+    {
+      "id": 72,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2009,
+      "file": "assets/pdfs/A/malagasy/2009_72.pdf"
+    },
+    {
+      "id": 92,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/malagasy/2009_92.pdf"
+    },
+    {
+      "id": 112,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2009,
+      "file": "assets/pdfs/A/philosophie/2009_112.pdf"
+    },
+    {
+      "id": 91,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/malagasy/2009_91.pdf"
+    },
+    {
+      "id": 33,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2010,
+      "file": "assets/pdfs/C/mathematiques/2010_33.pdf"
+    },
+    {
+      "id": 203,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2008,
+      "file": "assets/pdfs/C/sciences_physiques/2008_203.pdf"
+    },
+    {
+      "id": 51,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2008,
+      "file": "assets/pdfs/D/mathematiques/2008_51.pdf"
+    },
+    {
+      "id": 125,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/philosophie/2009_125.pdf"
+    },
+    {
+      "id": 126,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/philosophie/2009_126.pdf"
+    },
+    {
+      "id": 172,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2009,
+      "file": "assets/pdfs/A/anglais/2009_172.pdf"
+    },
+    {
+      "id": 185,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/anglais/2009_185.pdf"
+    },
+    {
+      "id": 150,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2009,
+      "file": "assets/pdfs/A-C-D/francais/2009_150.pdf"
+    },
+    {
+      "id": 186,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2009,
+      "file": "assets/pdfs/C-D/anglais/2009_186.pdf"
+    },
+    {
+      "id": 149,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2009,
+      "file": "assets/pdfs/A-C-D/francais/2009_149.pdf"
+    },
+    {
+      "id": 205,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2009,
+      "file": "assets/pdfs/C/sciences_physiques/2009_205.pdf"
+    },
+    {
+      "id": 148,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2009,
+      "file": "assets/pdfs/A-C-D/francais/2009_148.pdf"
+    },
+    {
+      "id": 222,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2009,
+      "file": "assets/pdfs/A/sciences_physiques/2009_222.pdf"
+    },
+    {
+      "id": 233,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2009,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2009_233.pdf"
+    },
+    {
+      "id": 206,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2009,
+      "file": "assets/pdfs/D/sciences_physiques/2009_206.pdf"
+    },
+    {
+      "id": 73,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2010,
+      "file": "assets/pdfs/A/malagasy/2010_73.pdf"
+    },
+    {
+      "id": 14,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2011,
+      "file": "assets/pdfs/A2/mathematiques/2011_14.pdf"
+    },
+    {
+      "id": 93,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/malagasy/2010_93.pdf"
+    },
+    {
+      "id": 94,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/malagasy/2010_94.pdf"
+    },
+    {
+      "id": 113,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2010,
+      "file": "assets/pdfs/A/philosophie/2010_113.pdf"
+    },
+    {
+      "id": 128,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/philosophie/2010_128.pdf"
+    },
+    {
+      "id": 127,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/philosophie/2010_127.pdf"
+    },
+    {
+      "id": 151,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2010,
+      "file": "assets/pdfs/A-C-D/francais/2010_151.pdf"
+    },
+    {
+      "id": 34,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2011,
+      "file": "assets/pdfs/C/mathematiques/2011_34.pdf"
+    },
+    {
+      "id": 152,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2010,
+      "file": "assets/pdfs/A-C-D/francais/2010_152.pdf"
+    },
+    {
+      "id": 173,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2010,
+      "file": "assets/pdfs/A/anglais/2010_173.pdf"
+    },
+    {
+      "id": 187,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/anglais/2010_187.pdf"
+    },
+    {
+      "id": 52,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2009,
+      "file": "assets/pdfs/D/mathematiques/2009_52.pdf"
+    },
+    {
+      "id": 153,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2010,
+      "file": "assets/pdfs/A-C-D/francais/2010_153.pdf"
+    },
+    {
+      "id": 188,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2010,
+      "file": "assets/pdfs/C-D/anglais/2010_188.pdf"
+    },
+    {
+      "id": 223,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2010,
+      "file": "assets/pdfs/A/sciences_physiques/2010_223.pdf"
+    },
+    {
+      "id": 224,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2010,
+      "file": "assets/pdfs/A/sciences_physiques/2010_224.pdf"
+    },
+    {
+      "id": 208,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2010,
+      "file": "assets/pdfs/D/sciences_physiques/2010_208.pdf"
+    },
+    {
+      "id": 234,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2010,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2010_234.pdf"
+    },
+    {
+      "id": 74,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2011,
+      "file": "assets/pdfs/A/malagasy/2011_74.pdf"
+    },
+    {
+      "id": 15,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2012,
+      "file": "assets/pdfs/A2/mathematiques/2012_15.pdf"
+    },
+    {
+      "id": 95,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/malagasy/2011_95.pdf"
+    },
+    {
+      "id": 207,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2010,
+      "file": "assets/pdfs/C/sciences_physiques/2010_207.pdf"
+    },
+    {
+      "id": 53,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2010,
+      "file": "assets/pdfs/D/mathematiques/2010_53.pdf"
+    },
+    {
+      "id": 114,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2011,
+      "file": "assets/pdfs/A/philosophie/2011_114.pdf"
+    },
+    {
+      "id": 129,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/philosophie/2011_129.pdf"
+    },
+    {
+      "id": 130,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/philosophie/2011_130.pdf"
+    },
+    {
+      "id": 96,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/malagasy/2011_96.pdf"
+    },
+    {
+      "id": 35,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2012,
+      "file": "assets/pdfs/C/mathematiques/2012_35.pdf"
+    },
+    {
+      "id": 154,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2011,
+      "file": "assets/pdfs/A-C-D/francais/2011_154.pdf"
+    },
+    {
+      "id": 174,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2011,
+      "file": "assets/pdfs/A/anglais/2011_174.pdf"
+    },
+    {
+      "id": 189,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/anglais/2011_189.pdf"
+    },
+    {
+      "id": 156,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2011,
+      "file": "assets/pdfs/A-C-D/francais/2011_156.pdf"
+    },
+    {
+      "id": 155,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2011,
+      "file": "assets/pdfs/A-C-D/francais/2011_155.pdf"
+    },
+    {
+      "id": 190,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2011,
+      "file": "assets/pdfs/C-D/anglais/2011_190.pdf"
+    },
+    {
+      "id": 225,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2011,
+      "file": "assets/pdfs/A/sciences_physiques/2011_225.pdf"
+    },
+    {
+      "id": 209,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2011,
+      "file": "assets/pdfs/C/sciences_physiques/2011_209.pdf"
+    },
+    {
+      "id": 235,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2011,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2011_235.pdf"
+    },
+    {
+      "id": 210,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2011,
+      "file": "assets/pdfs/D/sciences_physiques/2011_210.pdf"
+    },
+    {
+      "id": 75,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2012,
+      "file": "assets/pdfs/A/malagasy/2012_75.pdf"
+    },
+    {
+      "id": 98,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/malagasy/2012_98.pdf"
+    },
+    {
+      "id": 97,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/malagasy/2012_97.pdf"
+    },
+    {
+      "id": 16,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2013,
+      "file": "assets/pdfs/A2/mathematiques/2013_16.pdf"
+    },
+    {
+      "id": 131,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/philosophie/2012_131.pdf"
+    },
+    {
+      "id": 54,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2011,
+      "file": "assets/pdfs/D/mathematiques/2011_54.pdf"
+    },
+    {
+      "id": 115,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2012,
+      "file": "assets/pdfs/A/philosophie/2012_115.pdf"
+    },
+    {
+      "id": 132,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/philosophie/2012_132.pdf"
+    },
+    {
+      "id": 175,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2012,
+      "file": "assets/pdfs/A/anglais/2012_175.pdf"
+    },
+    {
+      "id": 157,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2012,
+      "file": "assets/pdfs/A-C-D/francais/2012_157.pdf"
+    },
+    {
+      "id": 158,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2012,
+      "file": "assets/pdfs/A-C-D/francais/2012_158.pdf"
+    },
+    {
+      "id": 191,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/anglais/2012_191.pdf"
+    },
+    {
+      "id": 159,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2012,
+      "file": "assets/pdfs/A-C-D/francais/2012_159.pdf"
+    },
+    {
+      "id": 192,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2012,
+      "file": "assets/pdfs/C-D/anglais/2012_192.pdf"
+    },
+    {
+      "id": 21,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2013,
+      "file": "assets/pdfs/C/mathematiques/2013_21.pdf"
+    },
+    {
+      "id": 211,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2012,
+      "file": "assets/pdfs/C/sciences_physiques/2012_211.pdf"
+    },
+    {
+      "id": 212,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2012,
+      "file": "assets/pdfs/D/sciences_physiques/2012_212.pdf"
+    },
+    {
+      "id": 226,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2012,
+      "file": "assets/pdfs/A/sciences_physiques/2012_226.pdf"
+    },
+    {
+      "id": 76,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2013,
+      "file": "assets/pdfs/A/malagasy/2013_76.pdf"
+    },
+    {
+      "id": 236,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2012,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2012_236.pdf"
+    },
+    {
+      "id": 36,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2014,
+      "file": "assets/pdfs/C/mathematiques/2014_36.pdf"
+    },
+    {
+      "id": 99,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/malagasy/2013_99.pdf"
+    },
+    {
+      "id": 55,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2012,
+      "file": "assets/pdfs/D/mathematiques/2012_55.pdf"
+    },
+    {
+      "id": 116,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2013,
+      "file": "assets/pdfs/A/philosophie/2013_116.pdf"
+    },
+    {
+      "id": 100,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/malagasy/2013_100.pdf"
+    },
+    {
+      "id": 133,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/philosophie/2013_133.pdf"
+    },
+    {
+      "id": 134,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/philosophie/2013_134.pdf"
+    },
+    {
+      "id": 160,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2013,
+      "file": "assets/pdfs/A-C-D/francais/2013_160.pdf"
+    },
+    {
+      "id": 176,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2013,
+      "file": "assets/pdfs/A/anglais/2013_176.pdf"
+    },
+    {
+      "id": 161,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2013,
+      "file": "assets/pdfs/A-C-D/francais/2013_161.pdf"
+    },
+    {
+      "id": 162,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2013,
+      "file": "assets/pdfs/A-C-D/francais/2013_162.pdf"
+    },
+    {
+      "id": 193,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/anglais/2013_193.pdf"
+    },
+    {
+      "id": 194,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2013,
+      "file": "assets/pdfs/C-D/anglais/2013_194.pdf"
+    },
+    {
+      "id": 227,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2013,
+      "file": "assets/pdfs/A/sciences_physiques/2013_227.pdf"
+    },
+    {
+      "id": 17,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2014,
+      "file": "assets/pdfs/A2/mathematiques/2014_17.pdf"
+    },
+    {
+      "id": 237,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2013,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2013_237.pdf"
+    },
+    {
+      "id": 214,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2013,
+      "file": "assets/pdfs/D/sciences_physiques/2013_214.pdf"
+    },
+    {
+      "id": 77,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2014,
+      "file": "assets/pdfs/A/malagasy/2014_77.pdf"
+    },
+    {
+      "id": 101,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/malagasy/2014_101.pdf"
+    },
+    {
+      "id": 213,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2013,
+      "file": "assets/pdfs/C/sciences_physiques/2013_213.pdf"
+    },
+    {
+      "id": 47,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2015,
+      "file": "assets/pdfs/C/mathematiques/2015_47.pdf"
+    },
+    {
+      "id": 56,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2013,
+      "file": "assets/pdfs/D/mathematiques/2013_56.pdf"
+    },
+    {
+      "id": 117,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2014,
+      "file": "assets/pdfs/A/philosophie/2014_117.pdf"
+    },
+    {
+      "id": 18,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2015,
+      "file": "assets/pdfs/A2/mathematiques/2015_18.pdf"
+    },
+    {
+      "id": 135,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/philosophie/2014_135.pdf"
+    },
+    {
+      "id": 102,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/malagasy/2014_102.pdf"
+    },
+    {
+      "id": 136,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/philosophie/2014_136.pdf"
+    },
+    {
+      "id": 164,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2014,
+      "file": "assets/pdfs/A-C-D/francais/2014_164.pdf"
+    },
+    {
+      "id": 177,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2014,
+      "file": "assets/pdfs/A/anglais/2014_177.pdf"
+    },
+    {
+      "id": 165,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2014,
+      "file": "assets/pdfs/A-C-D/francais/2014_165.pdf"
+    },
+    {
+      "id": 163,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2014,
+      "file": "assets/pdfs/A-C-D/francais/2014_163.pdf"
+    },
+    {
+      "id": 196,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/anglais/2014_196.pdf"
+    },
+    {
+      "id": 19,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2016,
+      "file": "assets/pdfs/A2/mathematiques/2016_19.pdf"
+    },
+    {
+      "id": 195,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2014,
+      "file": "assets/pdfs/C-D/anglais/2014_195.pdf"
+    },
+    {
+      "id": 216,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2014,
+      "file": "assets/pdfs/D/sciences_physiques/2014_216.pdf"
+    },
+    {
+      "id": 228,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2014,
+      "file": "assets/pdfs/A/sciences_physiques/2014_228.pdf"
+    },
+    {
+      "id": 215,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2014,
+      "file": "assets/pdfs/C/sciences_physiques/2014_215.pdf"
+    },
+    {
+      "id": 48,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2016,
+      "file": "assets/pdfs/C/mathematiques/2016_48.pdf"
+    },
+    {
+      "id": 238,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2014,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2014_238.pdf"
+    },
+    {
+      "id": 78,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2015,
+      "file": "assets/pdfs/A/malagasy/2015_78.pdf"
+    },
+    {
+      "id": 104,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/malagasy/2015_104.pdf"
+    },
+    {
+      "id": 103,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/malagasy/2015_103.pdf"
+    },
+    {
+      "id": 118,
+      "serie": "A",
+      "matiere": "Philosophie",
+      "annee": 2015,
+      "file": "assets/pdfs/A/philosophie/2015_118.pdf"
+    },
+    {
+      "id": 166,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2015,
+      "file": "assets/pdfs/A-C-D/francais/2015_166.pdf"
+    },
+    {
+      "id": 137,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/philosophie/2015_137.pdf"
+    },
+    {
+      "id": 57,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2014,
+      "file": "assets/pdfs/D/mathematiques/2014_57.pdf"
+    },
+    {
+      "id": 138,
+      "serie": "C-D",
+      "matiere": "Philosophie",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/philosophie/2015_138.pdf"
+    },
+    {
+      "id": 167,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2015,
+      "file": "assets/pdfs/A-C-D/francais/2015_167.pdf"
+    },
+    {
+      "id": 168,
+      "serie": "A-C-D",
+      "matiere": "Français",
+      "annee": 2015,
+      "file": "assets/pdfs/A-C-D/francais/2015_168.pdf"
+    },
+    {
+      "id": 178,
+      "serie": "A",
+      "matiere": "Anglais",
+      "annee": 2015,
+      "file": "assets/pdfs/A/anglais/2015_178.pdf"
+    },
+    {
+      "id": 229,
+      "serie": "A",
+      "matiere": "Sciences Physiques",
+      "annee": 2015,
+      "file": "assets/pdfs/A/sciences_physiques/2015_229.pdf"
+    },
+    {
+      "id": 20,
+      "serie": "A2",
+      "matiere": "Mathématiques",
+      "annee": 2017,
+      "file": "assets/pdfs/A2/mathematiques/2017_20.pdf"
+    },
+    {
+      "id": 198,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/anglais/2015_198.pdf"
+    },
+    {
+      "id": 217,
+      "serie": "C",
+      "matiere": "Sciences Physiques",
+      "annee": 2015,
+      "file": "assets/pdfs/C/sciences_physiques/2015_217.pdf"
+    },
+    {
+      "id": 197,
+      "serie": "C-D",
+      "matiere": "Anglais",
+      "annee": 2015,
+      "file": "assets/pdfs/C-D/anglais/2015_197.pdf"
+    },
+    {
+      "id": 79,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2016,
+      "file": "assets/pdfs/A/malagasy/2016_79.pdf"
+    },
+    {
+      "id": 239,
+      "serie": "A",
+      "matiere": "Sciences de la Vie et de la Terre",
+      "annee": 2015,
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2015_239.pdf"
+    },
+    {
+      "id": 49,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2017,
+      "file": "assets/pdfs/C/mathematiques/2017_49.pdf"
+    },
+    {
+      "id": 105,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2016,
+      "file": "assets/pdfs/C-D/malagasy/2016_105.pdf"
+    },
+    {
+      "id": 80,
+      "serie": "A",
+      "matiere": "Malagasy",
+      "annee": 2017,
+      "file": "assets/pdfs/A/malagasy/2017_80.pdf"
+    },
+    {
+      "id": 106,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2016,
+      "file": "assets/pdfs/C-D/malagasy/2016_106.pdf"
+    },
+    {
+      "id": 58,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2015,
+      "file": "assets/pdfs/D/mathematiques/2015_58.pdf"
+    },
+    {
+      "id": 50,
+      "serie": "C",
+      "matiere": "Mathématiques",
+      "annee": 2018,
+      "file": "assets/pdfs/C/mathematiques/2018_50.pdf"
+    },
+    {
+      "id": 218,
+      "serie": "D",
+      "matiere": "Sciences Physiques",
+      "annee": 2015,
+      "file": "assets/pdfs/D/sciences_physiques/2015_218.pdf"
+    },
+    {
+      "id": 59,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2016,
+      "file": "assets/pdfs/D/mathematiques/2016_59.pdf"
+    },
+    {
+      "id": 107,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2017,
+      "file": "assets/pdfs/C-D/malagasy/2017_107.pdf"
+    },
+    {
+      "id": 108,
+      "serie": "C-D",
+      "matiere": "Malagasy",
+      "annee": 2017,
+      "file": "assets/pdfs/C-D/malagasy/2017_108.pdf"
+    },
+    {
+      "id": 61,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2018,
+      "file": "assets/pdfs/D/mathematiques/2018_61.pdf"
+    },
+    {
+      "id": 60,
+      "serie": "D",
+      "matiere": "Mathématiques",
+      "annee": 2017,
+      "file": "assets/pdfs/D/mathematiques/2017_60.pdf"
+    }
+  ]
+}

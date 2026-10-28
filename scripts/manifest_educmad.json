@@ -1,0 +1,417 @@
+{
+  "generatedAt": "2026-09-29T06:26:00.967Z",
+  "source": "http://mediatheque.accesmad.org/educmad/",
+  "count": 41,
+  "sujets": [
+    {
+      "rid": "46227",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé problème 1 Bacc série S 2021",
+      "file": "assets/pdfs/S/mathematiques/2021_corrige_46227.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46228",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé  exercice 1 Bacc  série S 2021",
+      "file": "assets/pdfs/S/mathematiques/2021_corrige_46228.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46229",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé exercice 2 Bacc série S 2021",
+      "file": "assets/pdfs/S/mathematiques/2021_corrige_46229.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46022",
+      "serie": "OSE",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": " Série OSE-SVT:  Science de la vie et de la terre série OSE 2021 - Énoncé ",
+      "file": "assets/pdfs/OSE/sciences_de_la_vie_et_de_la_terre/2021_46022.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45895",
+      "serie": "L",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série L- Mathématiques: Mathématiques série L 2021",
+      "file": "assets/pdfs/L/mathematiques/2021_45895.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46351",
+      "serie": "L",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série L-SVT: Sciences de la vie et de la terre série L 2021 énoncé",
+      "file": "assets/pdfs/L/sciences_de_la_vie_et_de_la_terre/2021_46351.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45865",
+      "serie": "OSE",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série OSE - Mathématiques: Mathématiques série OSE 2021",
+      "file": "assets/pdfs/OSE/mathematiques/2021_45865.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47931",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série S - Mathématiques: Mathématiques série S 2022",
+      "file": "assets/pdfs/S/mathematiques/2022_47931.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46392",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé Problème 2 Bacc série S 2021",
+      "file": "assets/pdfs/S/mathematiques/2021_corrige_46392.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47933",
+      "serie": "L",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série L- Mathématiques: Mathématiques série L 2022",
+      "file": "assets/pdfs/L/mathematiques/2022_47933.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46349",
+      "serie": "S",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": " Série S-SVT: Sciences de la vie et de la terre série S 2021 énoncé",
+      "file": "assets/pdfs/S/sciences_de_la_vie_et_de_la_terre/2021_46349.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47932",
+      "serie": "OSE",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série OSE - Mathématiques: Mathématiques série OSE 2022",
+      "file": "assets/pdfs/OSE/mathematiques/2022_47932.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45894",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série S - Mathématiques: Mathématiques série S 2021",
+      "file": "assets/pdfs/S/mathematiques/2021_45894.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "48413",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé Exercice 2 Bacc série S 2022",
+      "file": "assets/pdfs/S/mathematiques/2022_corrige_48413.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "48394",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé exercice 1 Bacc série S 2022",
+      "file": "assets/pdfs/S/mathematiques/2022_corrige_48394.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "48423",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé  problème 2 Bacc série S  2022",
+      "file": "assets/pdfs/S/mathematiques/2022_corrige_48423.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47961",
+      "serie": "OSE",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": " Série OSE-SVT: Science de la vie et de la terre série OSE 2022 - Énoncé",
+      "file": "assets/pdfs/OSE/sciences_de_la_vie_et_de_la_terre/2022_47961.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47965",
+      "serie": "L",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série L-SVT: Sciences de la vie et de la terre série L 2022 énoncé",
+      "file": "assets/pdfs/L/sciences_de_la_vie_et_de_la_terre/2022_47965.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57589",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé Exercice 2 Bacc série S 2023",
+      "file": "assets/pdfs/S/mathematiques/2023_corrige_57589.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57600",
+      "serie": "S",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": "Série S - Sciences Physiques: Bacc série S 2023",
+      "file": "assets/pdfs/S/sciences_physiques/2023_57600.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57601",
+      "serie": "S",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": " Série S-SVT: Science de la Vie et de la Terre série S 2023 énoncé",
+      "file": "assets/pdfs/S/sciences_de_la_vie_et_de_la_terre/2023_57601.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47963",
+      "serie": "S",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": " Série S-SVT: Sciences de la vie et de la terre série S 2022 énoncé 2022",
+      "file": "assets/pdfs/S/sciences_de_la_vie_et_de_la_terre/2022_47963.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57659",
+      "serie": "L",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "titre": "Série L- Mathématiques: Bacc blanc Série L 2023 Lycée Philbert Tsiranana Mahajanga",
+      "file": "assets/pdfs/L/mathematiques/2023_bacblanc_57659.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57572",
+      "serie": "L",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": "Série L- Mathématiques: Mathématiques série L 2023",
+      "file": "assets/pdfs/L/mathematiques/2023_57572.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57660",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "titre": "Série S - Mathématiques: Bacc blanc Série S 2023 Lycée Philbert Tsiranana Mahajanga",
+      "file": "assets/pdfs/S/mathematiques/2023_bacblanc_57660.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57661",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "bacblanc",
+      "titre": "Série S - Mathématiques: Bacc Blanc 2022 Série Lycée Philbert Tsiranana Mahajanga",
+      "file": "assets/pdfs/S/mathematiques/2022_bacblanc_57661.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57682",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "corrige",
+      "titre": "Série S - Mathématiques: Corrigé problème 2 Bacc Série S 2023",
+      "file": "assets/pdfs/S/mathematiques/2023_corrige_57682.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57605",
+      "serie": "S",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": "Série S - Mathématiques: Mathématiques série S 2023",
+      "file": "assets/pdfs/S/mathematiques/2023_57605.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57724",
+      "serie": "L",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "titre": "Série L-Sciences Physiques: Bacc blanc serie L  CISCO Tanà 2023",
+      "file": "assets/pdfs/L/sciences_physiques/2023_bacblanc_57724.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57725",
+      "serie": "L",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série L-Sciences Physiques: Bacc SPC série L 2022",
+      "file": "assets/pdfs/L/sciences_physiques/2022_57725.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57727",
+      "serie": "L",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série L-Sciences Physiques: sujet SPC Bacc B serieL  LJJR 2022",
+      "file": "assets/pdfs/L/sciences_physiques/2022_57727.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57753",
+      "serie": "S",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "titre": "Série S - Sciences Physiques: Bacc blanc serie S  CISCO Tanà 2023",
+      "file": "assets/pdfs/S/sciences_physiques/2023_bacblanc_57753.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57726",
+      "serie": "L",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": "Série L-Sciences Physiques: Science Physique série L 2023",
+      "file": "assets/pdfs/L/sciences_physiques/2023_57726.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57728",
+      "serie": "L",
+      "matiere": "sciences_physiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série L-Sciences Physiques: Bacc série L 2021",
+      "file": "assets/pdfs/L/sciences_physiques/2021_57728.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57754",
+      "serie": "S",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série S - Sciences Physiques: Bacc  série S 2022",
+      "file": "assets/pdfs/S/sciences_physiques/2022_57754.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57761",
+      "serie": "OSE",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "titre": "Série OSE - Sciences Physiques: Bacc blanc serie OSE CISCO Tanà 2023",
+      "file": "assets/pdfs/OSE/sciences_physiques/2023_bacblanc_57761.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57762",
+      "serie": "OSE",
+      "matiere": "sciences_physiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série OSE - Sciences Physiques: Bacc PC serie OSE 2021",
+      "file": "assets/pdfs/OSE/sciences_physiques/2021_57762.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57763",
+      "serie": "OSE",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "titre": "Série OSE - Sciences Physiques: Bacc SPC série OSE 2022",
+      "file": "assets/pdfs/OSE/sciences_physiques/2022_57763.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57755",
+      "serie": "S",
+      "matiere": "sciences_physiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "titre": "Série S - Sciences Physiques: Bacc série S 2021",
+      "file": "assets/pdfs/S/sciences_physiques/2021_57755.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57574",
+      "serie": "OSE",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": " Série OSE-SVT: Science de la Vie et de la Terre série OSE 2023-énoncé",
+      "file": "assets/pdfs/OSE/sciences_de_la_vie_et_de_la_terre/2023_57574.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57573",
+      "serie": "OSE",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "titre": "Série OSE - Sciences Physiques: Sciences Physique série OSE 2023",
+      "file": "assets/pdfs/OSE/sciences_physiques/2023_57573.pdf",
+      "status": "downloaded"
+    }
+  ]
+}

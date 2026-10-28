@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Outils de build local (JDK/SDK portables) et artefacts
+/tools/
+/build-release.log
+*.apk
+
+bac-madagascar-pack.zip

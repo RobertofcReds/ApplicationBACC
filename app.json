@@ -1,25 +1,52 @@
 {
   "expo": {
-    "name": "bac-madagascar",
+    "name": "BAC Madagascar",
     "slug": "bac-madagascar",
-    "version": "1.0.0",
-    "orientation": "portrait",
+    "version": "1.5.0",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
+    "userInterfaceStyle": "automatic",
+    "scheme": "bacmadagascar",
+    "assetBundlePatterns": [],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "mg.bacmadagascar.app",
+      "infoPlist": {
+        "NSDocumentPickerUsage": "Importer vos sujets PDF personnels"
+      }
     },
     "android": {
+      "package": "mg.bacmadagascar.app",
+      "versionCode": 7,
       "adaptiveIcon": {
-        "backgroundColor": "#E6F4FE",
+        "backgroundColor": "#0B3D2E",
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       },
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "architectures": [
+        "armeabi-v7a",
+        "arm64-v8a",
+        "x86",
+        "x86_64"
+      ]
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-asset",
+      "expo-status-bar",
+      "expo-document-picker"
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": ""
+      }
     }
   }
 }

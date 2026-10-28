@@ -1,0 +1,1654 @@
+{
+  "generatedAt": "2026-09-29T06:35:38.102Z",
+  "source": "http://mediatheque.accesmad.org/educmad/",
+  "count": 183,
+  "sujets": [
+    {
+      "rid": "24235",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2016_24235.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24232",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2017_24232.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24247",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2015_24247.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24248",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2016_24248.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24249",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2017_24249.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24263",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2017_24263.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24254",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2013_24254.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24242",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2013_24242.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24264",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2016_24264.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24243",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2014_24243.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24270",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2017_24270.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24266",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2013_24266.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24271",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2016_24271.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24238",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2015_24238.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24274",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2013_24274.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24272",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2015_24272.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24279",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2017_24279.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24278",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2016_24278.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24276",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2014_24276.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24273",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2014_24273.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24265",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2015_24265.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25844",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2013_25844.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24281",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2013_24281.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25845",
+      "serie": "C-D",
+      "matiere": "philosophie",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/philosophie/2013_25845.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "24280",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2015_24280.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25850",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2016_25850.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25846",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2014_25846.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25851",
+      "serie": "C-D",
+      "matiere": "philosophie",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/philosophie/2016_25851.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25852",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2017_25852.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25853",
+      "serie": "C-D",
+      "matiere": "philosophie",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/philosophie/2017_25853.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25854",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2017_25854.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25855",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2017_25855.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25856",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2016_25856.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25857",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2016_25857.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25847",
+      "serie": "C-D",
+      "matiere": "philosophie",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/philosophie/2014_25847.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25849",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2015_25849.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25848",
+      "serie": "C-D",
+      "matiere": "philosophie",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/philosophie/2015_25848.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25858",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2015_25858.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25859",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2015_25859.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25864",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2017_25864.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25865",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2016_25865.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25860",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2014_25860.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25862",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2013_25862.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25861",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2014_25861.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25869",
+      "serie": "A",
+      "matiere": "anglais",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/anglais/2017_25869.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25863",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2013_25863.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25870",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2017_25870.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25871",
+      "serie": "A",
+      "matiere": "anglais",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/anglais/2016_25871.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25866",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2015_25866.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25872",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2016_25872.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25875",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2014_25875.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25868",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2013_25868.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25873",
+      "serie": "A",
+      "matiere": "anglais",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/anglais/2015_25873.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25874",
+      "serie": "A",
+      "matiere": "anglais",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/anglais/2014_25874.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25879",
+      "serie": "A",
+      "matiere": "allemand",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/allemand/2017_25879.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25867",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2014_25867.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25881",
+      "serie": "A",
+      "matiere": "allemand",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/allemand/2016_25881.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25880",
+      "serie": "C-D",
+      "matiere": "allemand",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/allemand/2017_25880.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25882",
+      "serie": "C-D",
+      "matiere": "allemand",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/allemand/2016_25882.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25877",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2013_25877.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25876",
+      "serie": "A",
+      "matiere": "anglais",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/anglais/2013_25876.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25878",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2015_25878.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25887",
+      "serie": "C-D",
+      "matiere": "espagnol",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/espagnol/2016_25887.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25884",
+      "serie": "C-D",
+      "matiere": "allemand",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/allemand/2014_25884.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25883",
+      "serie": "A",
+      "matiere": "allemand",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/allemand/2014_25883.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25886",
+      "serie": "A",
+      "matiere": "allemand",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/allemand/2013_25886.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25889",
+      "serie": "C-D",
+      "matiere": "espagnol",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/espagnol/2014_25889.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25885",
+      "serie": "C-D",
+      "matiere": "allemand",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/allemand/2013_25885.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25892",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2017_25892.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25890",
+      "serie": "A",
+      "matiere": "espagnol",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/espagnol/2013_25890.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25893",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2016_25893.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25888",
+      "serie": "A",
+      "matiere": "espagnol",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/espagnol/2014_25888.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25891",
+      "serie": "C-D",
+      "matiere": "espagnol",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/espagnol/2013_25891.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25934",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2017_25934.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25935",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2016_25935.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25895",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2014_25895.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25896",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2013_25896.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25936",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2015_25936.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25986",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2017_25986.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25938",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2013_25938.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25987",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2016_25987.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25894",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2015_25894.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26021",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2017_26021.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25991",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2013_25991.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26057",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2017,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2017_26057.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26027",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2013_26027.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25937",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2014,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2014_25937.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26058",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2016_26058.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26092",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2016_26092.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26062",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2013,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2013_26062.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26093",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2015_26093.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "25988",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2015_25988.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26023",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2015_26023.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "26059",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2015,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2015_26059.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40851",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2018_40851.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40974",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2018_40974.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40849",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2018_40849.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40977",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2018_40977.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40971",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2018_40971.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40865",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2018_40865.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40969",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2018_40969.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44706",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2019_44706.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "40978",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2018,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2018_40978.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44707",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2019_44707.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44715",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2019_44715.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44720",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2019_44720.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44721",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2019_44721.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44710",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2020_44710.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44725",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2020_44725.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44714",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2019_44714.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "44718",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2020_44718.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45124",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2020_45124.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45121",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2020_45121.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45123",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2020_45123.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45369",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2019_45369.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45393",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2019_45393.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45387",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2019_45387.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45392",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2019_45392.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45405",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2020_45405.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45411",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2020_45411.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45409",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2020,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2020_45409.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45869",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2021_45869.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45870",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2021_45870.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "45868",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2021_45868.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46016",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2021_46016.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47409",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2010,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2010_47409.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47410",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2012,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2012_47410.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46277",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2021_46277.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47928",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2022_47928.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46020",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2021_46020.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46275",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2021_46275.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47929",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2022_47929.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47930",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2022_47930.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47935",
+      "serie": "L",
+      "matiere": "philosophie",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/philosophie/2022_47935.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47934",
+      "serie": "A",
+      "matiere": "philosophie",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/philosophie/2022_47934.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47936",
+      "serie": "S",
+      "matiere": "malagasy",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/S/malagasy/2022_47936.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47938",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2022_47938.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47939",
+      "serie": "OSE",
+      "matiere": "malagasy",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/OSE/malagasy/2022_47939.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47941",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2022_47941.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47940",
+      "serie": "A-L",
+      "matiere": "anglais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-L/anglais/2022_47940.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "46018",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2021_46018.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47946",
+      "serie": "A",
+      "matiere": "francais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/francais/2022_47946.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47947",
+      "serie": "D",
+      "matiere": "francais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/francais/2022_47947.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47943",
+      "serie": "OSE",
+      "matiere": "anglais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/OSE/anglais/2022_47943.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47949",
+      "serie": "L",
+      "matiere": "francais",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/francais/2022_47949.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47432",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2016,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2016_47432.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47952",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2022_47952.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47957",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2022_47957.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47960",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2022_47960.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47942",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2021,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2021_47942.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47954",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2022_47954.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57563",
+      "serie": "C-D",
+      "matiere": "histoire_geographie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/histoire_geographie/2023_57563.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "47948",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2022,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2022_47948.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57567",
+      "serie": "A",
+      "matiere": "histoire_geographie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/histoire_geographie/2023_57567.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57560",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2023_57560.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57565",
+      "serie": "S",
+      "matiere": "histoire_geographie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/S/histoire_geographie/2023_57565.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57575",
+      "serie": "A-C-D",
+      "matiere": "francais",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/A-C-D/francais/2023_57575.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57561",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2023_57561.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57569",
+      "serie": "L",
+      "matiere": "histoire_geographie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/histoire_geographie/2023_57569.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57571",
+      "serie": "A",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_physiques/2023_57571.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57577",
+      "serie": "S",
+      "matiere": "malagasy",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/S/malagasy/2023_57577.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57580",
+      "serie": "A",
+      "matiere": "malagasy",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/malagasy/2023_57580.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57579",
+      "serie": "C-D",
+      "matiere": "malagasy",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/malagasy/2023_57579.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57576",
+      "serie": "C-D",
+      "matiere": "anglais",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C-D/anglais/2023_57576.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57581",
+      "serie": "L",
+      "matiere": "francais",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/francais/2023_57581.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57585",
+      "serie": "L",
+      "matiere": "philosophie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/philosophie/2023_57585.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57587",
+      "serie": "L",
+      "matiere": "sciences_economiques_et_sociales",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/L/sciences_economiques_et_sociales/2023_57587.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57584",
+      "serie": "CD",
+      "matiere": "philosophie",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/CD/philosophie/2023_57584.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57595",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/mathematiques/2019_57595.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57596",
+      "serie": "D",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_physiques/2023_57596.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57578",
+      "serie": "OSE",
+      "matiere": "malagasy",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/OSE/malagasy/2023_57578.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57597",
+      "serie": "C",
+      "matiere": "sciences_physiques",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_physiques/2023_57597.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57598",
+      "serie": "C",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/sciences_de_la_vie_et_de_la_terre/2023_57598.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57588",
+      "serie": "S",
+      "matiere": "sciences_economiques_et_sociales",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/S/sciences_economiques_et_sociales/2023_57588.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57602",
+      "serie": "CD",
+      "matiere": "philosophie",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/CD/philosophie/2019_57602.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57599",
+      "serie": "D",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/sciences_de_la_vie_et_de_la_terre/2023_57599.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57654",
+      "serie": "C",
+      "matiere": "mathematiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/C/mathematiques/2019_57654.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57655",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2019,
+      "genre": "sujet",
+      "file": "assets/pdfs/D/mathematiques/2019_57655.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57649",
+      "serie": "A",
+      "matiere": "sciences_de_la_vie_et_de_la_terre",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/A/sciences_de_la_vie_et_de_la_terre/2023_57649.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57657",
+      "serie": "D",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "file": "assets/pdfs/D/mathematiques/2023_bacblanc_57657.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57658",
+      "serie": "A",
+      "matiere": "mathematiques",
+      "annee": 2023,
+      "genre": "bacblanc",
+      "file": "assets/pdfs/A/mathematiques/2023_bacblanc_57658.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57582",
+      "serie": "S",
+      "matiere": "francais",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/S/francais/2023_57582.pdf",
+      "status": "downloaded"
+    },
+    {
+      "rid": "57583",
+      "serie": "OSE",
+      "matiere": "francais",
+      "annee": 2023,
+      "genre": "sujet",
+      "file": "assets/pdfs/OSE/francais/2023_57583.pdf",
+      "status": "downloaded"
+    }
+  ]
+}

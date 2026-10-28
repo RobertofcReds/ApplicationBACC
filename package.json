@@ -1,22 +1,51 @@
 {
   "name": "bac-madagascar",
-  "version": "1.0.0",
-  "main": "index.ts",
-  "dependencies": {
-    "expo": "~57.0.25",
-    "expo-status-bar": "~57.0.1",
-    "react": "19.2.3",
-    "react-native": "0.86.3"
-  },
-  "devDependencies": {
-    "@types/react": "~19.2.2",
-    "typescript": "~6.0.3"
-  },
+  "version": "1.1.0",
+  "main": "expo-router/entry",
+  "private": true,
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "fetch:annales": "node scripts/fetch-annales.mjs",
+    "dedupe:pdfs": "node scripts/dedupe-pdfs.mjs",
+    "catalogue": "node scripts/build-catalog.mjs",
+    "data": "npm run fetch:annales && npm run dedupe:pdfs && npm run catalogue",
+    "prebuild": "node scripts/build-catalog.mjs && expo prebuild --platform android",
+    "build:apk": "eas build -p android --profile preview",
+    "build:apk:local": "eas build -p android --profile preview --local"
   },
-  "private": true
+  "dependencies": {
+    "@expo/vector-icons": "^15.0.0",
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~57.0.25",
+    "expo-asset": "~57.0.18",
+    "expo-constants": "~57.0.19",
+    "expo-document-picker": "~57.0.2",
+    "expo-file-system": "~57.0.7",
+    "expo-font": "^57.0.4",
+    "expo-linking": "~57.0.11",
+    "expo-router": "~57.0.23",
+    "expo-status-bar": "~57.0.1",
+    "expo-system-ui": "~57.0.4",
+    "react": "19.2.3",
+    "react-native": "0.86.3",
+    "react-native-blob-util": "^0.25.1",
+    "react-native-gesture-handler": "~2.32.0",
+    "react-native-pdf": "^7.0.5",
+    "react-native-reanimated": "4.5.1",
+    "react-native-safe-area-context": "~5.7.0",
+    "react-native-screens": "~4.26.0",
+    "react-native-worklets": "0.10.1",
+    "react-native-zip-archive": "^9.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.3",
+    "@types/react": "~19.2.2",
+    "typescript": "~6.0.3",
+    "vitest": "^3.2.4"
+  }
 }

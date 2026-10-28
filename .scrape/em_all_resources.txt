@@ -1,0 +1,265 @@
+57580|Malagasy série A 2023 énoncé|130
+24270|Malagasy série A 2017 - énoncé|130
+24271|Malagasy série A 2016 - énoncé|130
+24272|Malagasy série A 2015 - énoncé|130
+24273|Malagasy série A 2014 - énoncé|130
+24274|Malagasy série A 2013 - énoncé|130
+57579|Malagasy série C-D 2023|130
+47938|Malagasy série  C-D 2022|130
+24279|Malagasy séries C-D 2017 - énoncé|130
+24278|Malagasy séries C-D 2016 - énoncé|130
+24280|Malagasy séries C-D 2015 - énoncé|130
+24281|Malagasy séries C-D 2013 - énoncé|130
+24276|Malagasy séries C-D 2014 - énoncé|130
+57577|Malagasy série S 2023|130
+47936|Malagasy série S 2022|130
+57578|Malagasy série OSE 2023|130
+47939|Malagasy série OSE 2022|130
+57585|Philosophie série L 2023- énoncé|131
+47934|Philosophie série A 2022|131
+57602|Philosophie série CD 2019-énoncé|131
+25852|Philosophie série A 2017 - énoncé|131
+25850|Philosophie série A 2016 - énoncé|131
+25849|Philosophie série A 2015 - énoncé|131
+25846|Philosophie série A 2014 - énoncé|131
+25844|Philosophie série A 2013 - énoncé|131
+57584|Philosophie série CD 2023 énoncé|131
+25853|Philosophie série C-D 2017 - énoncé|131
+25851|Philosophie série C-D 2016 - énoncé|131
+25848|Philosophie série C-D 2015 - énoncé|131
+25847|Philosophie série C-D 2014 - énoncé|131
+25845|Philosophie série C-D 2013 - énoncé|131
+47935|Philosophie série L 2022|131
+57569|Histo-Géo série L 2023- énoncé|132
+57567|Histo Géo série A 2023 -énoncé|132
+25854|Histo-Géo série A 2017 - énoncé|132
+25857|Histo-Géo série A 2016 - énoncé|132
+25858|Histo-Géo série A 2015 - énoncé|132
+25860|Histo-Géo série A 2014 - énoncé|132
+25862|Histo-Géo série A 2013 - énoncé|132
+57565|Histo-géo série S 2023 - énoncé|132
+57563|Histo Géo série C-D 2023- énoncé|132
+25855|Histo-Géo série C-D 2017 - énoncé|132
+25856|Histo-Géo série C-D 2016 - énoncé|132
+25859|Histo-Géo série C-D 2015 - énoncé|132
+25861|Histo-Géo série C-D 2014 - énoncé|132
+25863|Histo-Géo série C-D 2013 - énoncé|132
+57575|Français série A-C-D 2023|134
+47947|Français série D 2022|134
+57583|Français série OSE 2023|134
+57581|FRANCAIS série L 2023|134
+57582|Français série S 2023|134
+47946|Français série A 2022|134
+47949|Français série L 2022|134
+25864|Français séries A-C-D 2017 - énoncé|134
+25865|Français séries A-C-D 2016 - énoncé|134
+25866|Français séries A-C-D 2015 - énoncé|134
+25867|Français séries A-C-D 2014 - énoncé|134
+25868|Français séries A-C-D 2013 - énoncé|134
+47940|Anglais série A-L 2022 - énoncé|135
+25869|Anglais série A 2017 - énoncé|135
+25871|Anglais série A 2016 - énoncé|135
+25873|Anglais série A 2015 - énoncé|135
+25874|Anglais série A 2014 - énoncé|135
+25876|Anglais série A 2013 - énoncé|135
+57576|Anglais série C-D 2023|135
+47941|Anglais série C-D 2022|135
+25870|Anglais série C-D 2017 - énoncé|135
+25872|Anglais série C-D 2016 - énoncé|135
+25878|Anglais série C-D 2015 - énoncé|135
+25875|Anglais série C-D 2014 - énoncé|135
+25877|Anglais série C-D 2013 - énoncé|135
+47943|Anglais série OSE 2022- énoncé|135
+25888|Espagnol série A 2014 - énoncé|136
+25890|Espagnol série A 2013 - énoncé|136
+25887|Espagnol série C-D 2016 - énoncé|136
+25889|Espagnol série C-D 2014 - énoncé|136
+25891|Espagnol série C-D 2013 - énoncé|136
+25879|Allemand série A 2017 - énoncé|137
+25881|Allemand série A 2016 - énoncé|137
+25883|Allemand série A 2014 - énoncé|137
+25886|Allemand série A 2013 - énoncé|137
+25880|Allemand série C-D 2017 - énoncé|137
+25882|Allemand série C-D 2016 - énoncé|137
+25884|Allemand série C-D 2014 - énoncé|137
+25885|Allemand série C-D 2013 - énoncé|137
+57587|SES série L énoncé  2023|2152
+57588|SES série S énoncé 2023|2152
+57560|Mathématiques série D 2023 - énoncé|816
+47929|Mathématiques série D 2022 -énoncé|816
+45869|Mathématiques série D 2021 - énoncé|816
+45123|Mathématiques série D 2020 - énoncé|816
+57655|Mathématiques série D 2019 - énoncé|816
+40978|Mathématiques série D 2018 - énoncé|816
+25892|Mathématiques série D 2017 - énoncé|816
+25893|Mathématiques série D 2016 - énoncé|816
+25894|Mathématiques série D 2015 - énoncé|816
+25895|Mathématiques série D 2014 - énoncé|816
+25896|Mathématiques série D 2013 - énoncé|816
+57657|Bacc blanc Série D 2023 Lycée Philbert Tsiranana Mahanjanga|816
+47930|Mathématiques série A 2022 -énoncé|817
+45870|Mathématiques série A 2021 - énoncé|817
+45124|Mathématiques série A 2020 - énoncé|817
+57595|Mathématiques serie A 2019 -énoncé|817
+25934|Mathématiques série A 2017 - énoncé|817
+25935|Mathématiques série A 2016 - énoncé|817
+25936|Mathématiques série A 2015 - énoncé|817
+25937|Mathématiques série A 2014 - énoncé|817
+25938|Mathématiques série A 2013 - énoncé|817
+47410|Enoncé Mathématiques série A 2012|817
+47409|Enoncé Mathématiques série A 2010|817
+47406|Enoncé Mathématiques série A 2004|817
+47408|Enoncé Mathématiques série A 2001|817
+47407|Enoncé Mathématiques série A 1999|817
+57658|Bacc blanc Mathématiques Série A 2023 Lycée Philbert Tsiranana Mahajanga|817
+57596|Sujet Bacc SPC série D 2023-énoncé|818
+47957|Sujet Bacc SPC série D 2022-énoncé|818
+46275|Sujet Bacc PC serie D 2021 - Enoncé|818
+44718|Sciences Physiques série D 2020 - énoncé|818
+44715|Sciences Physiques série D 2ème session 2019 - énoncé|818
+44714|Sciences Physiques série D 1ère session 2019 - énoncé|818
+40971|Sciences physiques série D 2018 - énoncé|818
+25986|Sciences physiques série D 2017 - énoncé|818
+25987|Sciences physiques série D 2016 - énoncé|818
+25988|Sciences physiques série D 2015 - énoncé|818
+25989|Enoncé Physique Chimie série D 2014|818
+25991|Sciences physiques série D 2013 - énoncé|818
+25999|Enoncé Physique Chimie série D 2009|818
+26001|Enoncé Physique Chimie série D 2008|818
+26017|Enoncé Physique Chimie série D 2000|818
+26019|Enoncé Physique Chimie série D 1999|818
+57571|Sciences Physique  série A 2023 énoncé|819
+47960|Sujet Bacc SPC série A 2022|819
+46277|Sujet Bacc PC serie A  2021 - Enoncé|819
+44725|Sciences Physiques série A  2020 - énoncé|819
+44721|Sciences Physiques serie A 2ème session  2019 - énoncé|819
+44720|Sciences Physiques série A 1ère session 2019 - énoncé|819
+40974|Sciences physiques série A 2018 - énoncé|819
+26021|Sciences physiques série A 2017 - énoncé|819
+47432|Sciences Physique série A 2016- énoncé|819
+26023|Sciences physiques série A 2015 - énoncé|819
+26025|Enoncé Physique  série A 2014|819
+26027|Sciences physiques série A 2013 - énoncé|819
+57599|Enoncé Science de la Vie et de la Terre série D 2023|820
+47948|Énoncé Science de la vie et de la Terre série D 2022|820
+46018|Énoncé Science de la vie et de la Terre série D 2021|820
+45411|Énoncé Science de la vie et de la Terre série D 2020|820
+45387|Énoncé Science de la vie et de la Terre série D 2019|820
+40865|Sciences de la vie et de la Terre série D 2018 - énoncé|820
+26057|Sciences de la vie et de la Terre série D 2017 - énoncé|820
+26058|Sciences de la vie et de la Terre série D 2016 - énoncé|820
+26059|Sciences de la vie et de la Terre série D 2015 - énoncé|820
+26060|Enoncé Science de la vie et de la Terre série D 2014|820
+26062|Sciences de la vie et de la Terre série D 2013 - énoncé|820
+47954|Sciences de la vie et de la Terre série A 2022|821
+46020|Sciences de la vie et de la Terre série A 2021|821
+45405|Sciences de la vie et de la Terre série A 2020|821
+45393|Sciences de la vie et de la Terre série A 2019 2ème session|821
+45392|Sciences de la vie et de la Terre série A 2019 1èr session|821
+40849|Sciences de la vie et de la Terre série A 2018 - énoncé|821
+26092|Sciences de la vie et de la Terre série A 2016 - énoncé|821
+26093|Sciences de la vie et de la Terre série A 2015 - énoncé|821
+26094|Enoncé Science de la vie et de la Terre série A 2014|821
+57649|Sciences de la vie et de la terre série A 2023 docx|821
+45865|Mathématiques série OSE 2021|1757
+47932|Mathématiques série OSE 2022|1757
+57605|Mathématiques série S 2023|1758
+57660|Bacc blanc Série S 2023 Lycée Philbert Tsiranana Mahajanga|1758
+47931|Mathématiques série S 2022|1758
+45894|Mathématiques série S 2021|1758
+57661|Bacc Blanc 2022 Série Lycée Philbert Tsiranana Mahajanga|1758
+46228|Corrigé  exercice 1 Bacc  série S 2021|1758
+46229|Corrigé exercice 2 Bacc série S 2021|1758
+46227|Corrigé problème 1 Bacc série S 2021|1758
+46392|Corrigé Problème 2 Bacc série S 2021|1758
+48394|Corrigé exercice 1 Bacc série S 2022|1758
+48413|Corrigé Exercice 2 Bacc série S 2022|1758
+48423|Corrigé  problème 2 Bacc série S  2022|1758
+57589|Corrigé Exercice 2 Bacc série S 2023|1758
+57682|Corrigé problème 2 Bacc Série S 2023|1758
+45895|Mathématiques série L 2021|1759
+47933|Mathématiques série L 2022|1759
+57572|Mathématiques série L 2023|1759
+57659|Bacc blanc Série L 2023 Lycée Philbert Tsiranana Mahajanga|1759
+57573|Sciences Physique série OSE 2023|1760
+57761|Bacc blanc serie OSE CISCO Tanà 2023|1760
+57762|Bacc PC serie OSE 2021|1760
+57763|Bacc SPC série OSE 2022|1760
+46351|Sciences de la vie et de la terre série L 2021 énoncé|1761
+47965|Sciences de la vie et de la terre série L 2022 énoncé|1761
+57600|Bacc série S 2023|1762
+57753|Bacc blanc serie S  CISCO Tanà 2023|1762
+57754|Bacc  série S 2022|1762
+57755|Bacc série S 2021|1762
+46349|Sciences de la vie et de la terre série S 2021 énoncé|1763
+47963|Sciences de la vie et de la terre série S 2022 énoncé 2022|1763
+57601|Science de la Vie et de la Terre série S 2023 énoncé|1763
+57574|Science de la Vie et de la Terre série OSE 2023-énoncé|1764
+46022|Science de la vie et de la terre série OSE 2021 - Énoncé|1764
+47961|Science de la vie et de la terre série OSE 2022 - Énoncé|1764
+57725|Bacc SPC série L 2022|1765
+57724|Bacc blanc serie L  CISCO Tanà 2023|1765
+57726|Science Physique série L 2023|1765
+57727|sujet SPC Bacc B serieL  LJJR 2022|1765
+57728|Bacc série L 2021|1765
+43945|Dessin CCBTP 2014|1370
+43946|Dessin PCBTP 2014|1370
+43947|Etude de réalisation CCBTP 2014|1370
+43948|Etude de réalisation PCBTP 2014|1370
+43949|Hydraulique PC-CCBTP 2014|1370
+43950|Mécanique DMPCBTP 2014|1370
+43961|Mécanique RDM PCBTP 2014|1370
+43962|Morex PC CCBTP 2014|1370
+43963|Téchnologie PC CCBTP 2014|1370
+43964|Topographie CCBTP 2014|1370
+43965|Topographie PCBTP 2014|1370
+43981|Analyse de Réparation TMA 2014|1371
+43982|Analyse et Organisation de Production TMF 2014|1371
+43983|Analyse et Organisation de Production TOM 2014|1371
+43984|Analyse TAMB 2014|1371
+43985|Automatisme Schema TMEL 2014|1371
+43986|Dessin et technologie de construction TMA MEMA 2014|1371
+43987|Dessin et Technologie de Construction TOM 2014|1371
+43988|Dessin et Technologie de Construction TPFM 2014|1371
+43989|Dessin Industriel TMF 2014|1371
+43990|Dessin TAMB 2014|1371
+43991|Dessin Industriel TMEL TFFI EN 2014|1371
+43992|Electronique Théorique EN 2014|1371
+43993|Electrotechnique TFFI 2014|1371
+43994|Electrotechnique TMEL 2014|1371
+43995|Etude déquipement TMEL 2014|1371
+43996|Géométrie Descriptive TAMB 2014|1371
+43997|Initiation à l'Entrepreneuriat TAMB 2014|1371
+43998|Mécanique RDM TAMB 2014|1371
+43999|Mécanique RDM TMF 2014|1371
+44000|Mécanique RDM TOM 2014|1371
+44001|Mécanique RDM TPFM 2014|1371
+44002|Mesures et Essais  TFFI 2014|1371
+44003|Mésures-Essais TMEL 2014|1371
+44004|Méthodes dusinages TPFM 2014|1371
+44005|Schéma EN 2014|1371
+44006|Schéma TFFI 2014|1371
+44007|Téchnologie d'Automobile TMA 2014|1371
+44008|Téchnologie EN 2014|1371
+44009|Téchnologie Générale TOM 2014|1371
+44010|Téchnologie ProfessionnelleTMF 2014|1371
+44011|Téchnologie TAMB 2014|1371
+44012|Téchnologie TFFI 2014|1371
+44013|Téchnologie TMEL 2014|1371
+44014|Téchnologie TPFM 2014|1371
+44015|Traçage et Géometrie Descriptive TMF 2014|1371
+44016|Traçage TOM 2014|1371
+44017|SUJET BACC MATHS 2006|1372
+44018|SUJET BACC MATHS 2007|1372
+44019|SUJET BACC MATHS 2008|1372
+44020|SUJET BACC MATHS 2009|1372
+44021|SUJET BACC MATHS 2010|1372
+44022|SUJET BACC MATHS 2011|1372
+44023|SUJET BACC MATHS 2012|1372
+44024|SUJET BACC MATHS 2013|1372
+44025|SUJET BACC MATHS 2014|1372
+44026|SUJET BACC MATHS 2015|1372
+44027|SUJET BACC MATHS 2016|1372
+44028|SUJET BACC MATHS 2017|1372
+44029|SUJET BACC MATHS 2018|1372
+44030|SUJET BACC MATHS 2019|1372
